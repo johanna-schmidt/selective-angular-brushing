@@ -1,0 +1,4062 @@
+[
+  {
+    "name": "AMC Ambassador Brougham",
+    "economy": 13,
+    "cylinders": 8,
+    "displacement": 360,
+    "power": 175,
+    "weight": 3821,
+    "0-60mph": 11,
+    "year": 73
+  },
+  {
+    "name": "AMC Ambassador DPL",
+    "economy": 15,
+    "cylinders": 8,
+    "displacement": 390,
+    "power": 190,
+    "weight": 3850,
+    "0-60mph": 8.5,
+    "year": 70
+  },
+  {
+    "name": "AMC Ambassador SST",
+    "economy": 17,
+    "cylinders": 8,
+    "displacement": 304,
+    "power": 150,
+    "weight": 3672,
+    "0-60mph": 11.5,
+    "year": 72
+  },
+  {
+    "name": "AMC Concord DL 6",
+    "economy": 20.2,
+    "cylinders": 6,
+    "displacement": 232,
+    "power": 90,
+    "weight": 3265,
+    "0-60mph": 18.2,
+    "year": 79
+  },
+  {
+    "name": "AMC Concord DL",
+    "economy": 18.1,
+    "cylinders": 6,
+    "displacement": 258,
+    "power": 120,
+    "weight": 3410,
+    "0-60mph": 15.1,
+    "year": 78
+  },
+  {
+    "name": "AMC Concord DL",
+    "economy": 23,
+    "cylinders": 4,
+    "displacement": 151,
+    "power": "",
+    "weight": 3035,
+    "0-60mph": 20.5,
+    "year": 82
+  },
+  {
+    "name": "AMC Concord",
+    "economy": 19.4,
+    "cylinders": 6,
+    "displacement": 232,
+    "power": 90,
+    "weight": 3210,
+    "0-60mph": 17.2,
+    "year": 78
+  },
+  {
+    "name": "AMC Concord",
+    "economy": 24.3,
+    "cylinders": 4,
+    "displacement": 151,
+    "power": 90,
+    "weight": 3003,
+    "0-60mph": 20.1,
+    "year": 80
+  },
+  {
+    "name": "AMC Gremlin",
+    "economy": 18,
+    "cylinders": 6,
+    "displacement": 232,
+    "power": 100,
+    "weight": 2789,
+    "0-60mph": 15,
+    "year": 73
+  },
+  {
+    "name": "AMC Gremlin",
+    "economy": 19,
+    "cylinders": 6,
+    "displacement": 232,
+    "power": 100,
+    "weight": 2634,
+    "0-60mph": 13,
+    "year": 71
+  },
+  {
+    "name": "AMC Gremlin",
+    "economy": 20,
+    "cylinders": 6,
+    "displacement": 232,
+    "power": 100,
+    "weight": 2914,
+    "0-60mph": 16,
+    "year": 75
+  },
+  {
+    "name": "AMC Gremlin",
+    "economy": 21,
+    "cylinders": 6,
+    "displacement": 199,
+    "power": 90,
+    "weight": 2648,
+    "0-60mph": 15,
+    "year": 70
+  },
+  {
+    "name": "AMC Hornet Sportabout (Wagon)",
+    "economy": 18,
+    "cylinders": 6,
+    "displacement": 258,
+    "power": 110,
+    "weight": 2962,
+    "0-60mph": 13.5,
+    "year": 71
+  },
+  {
+    "name": "AMC Hornet",
+    "economy": 18,
+    "cylinders": 6,
+    "displacement": 199,
+    "power": 97,
+    "weight": 2774,
+    "0-60mph": 15.5,
+    "year": 70
+  },
+  {
+    "name": "AMC Hornet",
+    "economy": 18,
+    "cylinders": 6,
+    "displacement": 232,
+    "power": 100,
+    "weight": 2945,
+    "0-60mph": 16,
+    "year": 73
+  },
+  {
+    "name": "AMC Hornet",
+    "economy": 19,
+    "cylinders": 6,
+    "displacement": 232,
+    "power": 100,
+    "weight": 2901,
+    "0-60mph": 16,
+    "year": 74
+  },
+  {
+    "name": "AMC Hornet",
+    "economy": 22.5,
+    "cylinders": 6,
+    "displacement": 232,
+    "power": 90,
+    "weight": 3085,
+    "0-60mph": 17.6,
+    "year": 76
+  },
+  {
+    "name": "AMC Matador (Wagon)",
+    "economy": 14,
+    "cylinders": 8,
+    "displacement": 304,
+    "power": 150,
+    "weight": 4257,
+    "0-60mph": 15.5,
+    "year": 74
+  },
+  {
+    "name": "AMC Matador (Wagon)",
+    "economy": 15,
+    "cylinders": 8,
+    "displacement": 304,
+    "power": 150,
+    "weight": 3892,
+    "0-60mph": 12.5,
+    "year": 72
+  },
+  {
+    "name": "AMC Matador",
+    "economy": 14,
+    "cylinders": 8,
+    "displacement": 304,
+    "power": 150,
+    "weight": 3672,
+    "0-60mph": 11.5,
+    "year": 73
+  },
+  {
+    "name": "AMC Matador",
+    "economy": 15,
+    "cylinders": 6,
+    "displacement": 258,
+    "power": 110,
+    "weight": 3730,
+    "0-60mph": 19,
+    "year": 75
+  },
+  {
+    "name": "AMC Matador",
+    "economy": 15.5,
+    "cylinders": 8,
+    "displacement": 304,
+    "power": 120,
+    "weight": 3962,
+    "0-60mph": 13.9,
+    "year": 76
+  },
+  {
+    "name": "AMC Matador",
+    "economy": 16,
+    "cylinders": 6,
+    "displacement": 258,
+    "power": 110,
+    "weight": 3632,
+    "0-60mph": 18,
+    "year": 74
+  },
+  {
+    "name": "AMC Matador",
+    "economy": 18,
+    "cylinders": 6,
+    "displacement": 232,
+    "power": 100,
+    "weight": 3288,
+    "0-60mph": 15.5,
+    "year": 71
+  },
+  {
+    "name": "AMC Pacer D/L",
+    "economy": 17.5,
+    "cylinders": 6,
+    "displacement": 258,
+    "power": 95,
+    "weight": 3193,
+    "0-60mph": 17.8,
+    "year": 76
+  },
+  {
+    "name": "AMC Pacer",
+    "economy": 19,
+    "cylinders": 6,
+    "displacement": 232,
+    "power": 90,
+    "weight": 3211,
+    "0-60mph": 17,
+    "year": 75
+  },
+  {
+    "name": "AMC Rebel SST (Wagon)",
+    "economy": "",
+    "cylinders": 8,
+    "displacement": 360,
+    "power": 175,
+    "weight": 3850,
+    "0-60mph": 11,
+    "year": 70
+  },
+  {
+    "name": "AMC Rebel SST",
+    "economy": 16,
+    "cylinders": 8,
+    "displacement": 304,
+    "power": 150,
+    "weight": 3433,
+    "0-60mph": 12,
+    "year": 70
+  },
+  {
+    "name": "AMC Spirit DL",
+    "economy": 27.4,
+    "cylinders": 4,
+    "displacement": 121,
+    "power": 80,
+    "weight": 2670,
+    "0-60mph": 15,
+    "year": 79
+  },
+  {
+    "name": "Audi 100 LS",
+    "economy": 20,
+    "cylinders": 4,
+    "displacement": 114,
+    "power": 91,
+    "weight": 2582,
+    "0-60mph": 14,
+    "year": 73
+  },
+  {
+    "name": "Audi 100 LS",
+    "economy": 23,
+    "cylinders": 4,
+    "displacement": 115,
+    "power": 95,
+    "weight": 2694,
+    "0-60mph": 15,
+    "year": 75
+  },
+  {
+    "name": "Audi 100 LS",
+    "economy": 24,
+    "cylinders": 4,
+    "displacement": 107,
+    "power": 90,
+    "weight": 2430,
+    "0-60mph": 14.5,
+    "year": 70
+  },
+  {
+    "name": "Audi 4000",
+    "economy": 34.3,
+    "cylinders": 4,
+    "displacement": 97,
+    "power": 78,
+    "weight": 2188,
+    "0-60mph": 15.8,
+    "year": 80
+  },
+  {
+    "name": "Audi 5000",
+    "economy": 20.3,
+    "cylinders": 5,
+    "displacement": 131,
+    "power": 103,
+    "weight": 2830,
+    "0-60mph": 15.9,
+    "year": 78
+  },
+  {
+    "name": "Audi 5000S (Diesel)",
+    "economy": 36.4,
+    "cylinders": 5,
+    "displacement": 121,
+    "power": 67,
+    "weight": 2950,
+    "0-60mph": 19.9,
+    "year": 80
+  },
+  {
+    "name": "Audi Fox",
+    "economy": 29,
+    "cylinders": 4,
+    "displacement": 98,
+    "power": 83,
+    "weight": 2219,
+    "0-60mph": 16.5,
+    "year": 74
+  },
+  {
+    "name": "BMW 2002",
+    "economy": 26,
+    "cylinders": 4,
+    "displacement": 121,
+    "power": 113,
+    "weight": 2234,
+    "0-60mph": 12.5,
+    "year": 70
+  },
+  {
+    "name": "BMW 320i",
+    "economy": 21.5,
+    "cylinders": 4,
+    "displacement": 121,
+    "power": 110,
+    "weight": 2600,
+    "0-60mph": 12.8,
+    "year": 77
+  },
+  {
+    "name": "Buick Century 350",
+    "economy": 13,
+    "cylinders": 8,
+    "displacement": 350,
+    "power": 175,
+    "weight": 4100,
+    "0-60mph": 13,
+    "year": 73
+  },
+  {
+    "name": "Buick Century Limited",
+    "economy": 25,
+    "cylinders": 6,
+    "displacement": 181,
+    "power": 110,
+    "weight": 2945,
+    "0-60mph": 16.4,
+    "year": 82
+  },
+  {
+    "name": "Buick Century Luxus (Wagon)",
+    "economy": 13,
+    "cylinders": 8,
+    "displacement": 350,
+    "power": 150,
+    "weight": 4699,
+    "0-60mph": 14.5,
+    "year": 74
+  },
+  {
+    "name": "Buick Century Special",
+    "economy": 20.6,
+    "cylinders": 6,
+    "displacement": 231,
+    "power": 105,
+    "weight": 3380,
+    "0-60mph": 15.8,
+    "year": 78
+  },
+  {
+    "name": "Buick Century",
+    "economy": 17,
+    "cylinders": 6,
+    "displacement": 231,
+    "power": 110,
+    "weight": 3907,
+    "0-60mph": 21,
+    "year": 75
+  },
+  {
+    "name": "Buick Century",
+    "economy": 22.4,
+    "cylinders": 6,
+    "displacement": 231,
+    "power": 110,
+    "weight": 3415,
+    "0-60mph": 15.8,
+    "year": 81
+  },
+  {
+    "name": "Buick Electra 225 Custom",
+    "economy": 12,
+    "cylinders": 8,
+    "displacement": 455,
+    "power": 225,
+    "weight": 4951,
+    "0-60mph": 11,
+    "year": 73
+  },
+  {
+    "name": "Buick Estate Wagon (Wagon)",
+    "economy": 14,
+    "cylinders": 8,
+    "displacement": 455,
+    "power": 225,
+    "weight": 3086,
+    "0-60mph": 10,
+    "year": 70
+  },
+  {
+    "name": "Buick Estate Wagon (Wagon)",
+    "economy": 16.9,
+    "cylinders": 8,
+    "displacement": 350,
+    "power": 155,
+    "weight": 4360,
+    "0-60mph": 14.9,
+    "year": 79
+  },
+  {
+    "name": "Buick Lesabre Custom",
+    "economy": 13,
+    "cylinders": 8,
+    "displacement": 350,
+    "power": 155,
+    "weight": 4502,
+    "0-60mph": 13.5,
+    "year": 72
+  },
+  {
+    "name": "Buick Opel Isuzu Deluxe",
+    "economy": 30,
+    "cylinders": 4,
+    "displacement": 111,
+    "power": 80,
+    "weight": 2155,
+    "0-60mph": 14.8,
+    "year": 77
+  },
+  {
+    "name": "Buick Regal Sport Coupe (Turbo)",
+    "economy": 17.7,
+    "cylinders": 6,
+    "displacement": 231,
+    "power": 165,
+    "weight": 3445,
+    "0-60mph": 13.4,
+    "year": 78
+  },
+  {
+    "name": "Buick Skyhawk",
+    "economy": 21,
+    "cylinders": 6,
+    "displacement": 231,
+    "power": 110,
+    "weight": 3039,
+    "0-60mph": 15,
+    "year": 75
+  },
+  {
+    "name": "Buick Skylark 320",
+    "economy": 15,
+    "cylinders": 8,
+    "displacement": 350,
+    "power": 165,
+    "weight": 3693,
+    "0-60mph": 11.5,
+    "year": 70
+  },
+  {
+    "name": "Buick Skylark Limited",
+    "economy": 28.4,
+    "cylinders": 4,
+    "displacement": 151,
+    "power": 90,
+    "weight": 2670,
+    "0-60mph": 16,
+    "year": 79
+  },
+  {
+    "name": "Buick Skylark",
+    "economy": 20.5,
+    "cylinders": 6,
+    "displacement": 231,
+    "power": 105,
+    "weight": 3425,
+    "0-60mph": 16.9,
+    "year": 77
+  },
+  {
+    "name": "Buick Skylark",
+    "economy": 26.6,
+    "cylinders": 4,
+    "displacement": 151,
+    "power": 84,
+    "weight": 2635,
+    "0-60mph": 16.4,
+    "year": 81
+  },
+  {
+    "name": "Cadillac Eldorado",
+    "economy": 23,
+    "cylinders": 8,
+    "displacement": 350,
+    "power": 125,
+    "weight": 3900,
+    "0-60mph": 17.4,
+    "year": 79
+  },
+  {
+    "name": "Cadillac Seville",
+    "economy": 16.5,
+    "cylinders": 8,
+    "displacement": 350,
+    "power": 180,
+    "weight": 4380,
+    "0-60mph": 12.1,
+    "year": 76
+  },
+  {
+    "name": "Chevroelt Chevelle Malibu",
+    "economy": 16,
+    "cylinders": 6,
+    "displacement": 250,
+    "power": 105,
+    "weight": 3897,
+    "0-60mph": 18.5,
+    "year": 75
+  },
+  {
+    "name": "Chevrolet Bel Air",
+    "economy": 15,
+    "cylinders": 8,
+    "displacement": 350,
+    "power": 145,
+    "weight": 4440,
+    "0-60mph": 14,
+    "year": 75
+  },
+  {
+    "name": "Chevrolet Camaro",
+    "economy": 27,
+    "cylinders": 4,
+    "displacement": 151,
+    "power": 90,
+    "weight": 2950,
+    "0-60mph": 17.3,
+    "year": 82
+  },
+  {
+    "name": "Chevrolet Caprice Classic",
+    "economy": 13,
+    "cylinders": 8,
+    "displacement": 400,
+    "power": 150,
+    "weight": 4464,
+    "0-60mph": 12,
+    "year": 73
+  },
+  {
+    "name": "Chevrolet Caprice Classic",
+    "economy": 17,
+    "cylinders": 8,
+    "displacement": 305,
+    "power": 130,
+    "weight": 3840,
+    "0-60mph": 15.4,
+    "year": 79
+  },
+  {
+    "name": "Chevrolet Caprice Classic",
+    "economy": 17.5,
+    "cylinders": 8,
+    "displacement": 305,
+    "power": 145,
+    "weight": 3880,
+    "0-60mph": 12.5,
+    "year": 77
+  },
+  {
+    "name": "Chevrolet Cavalier 2-Door",
+    "economy": 34,
+    "cylinders": 4,
+    "displacement": 112,
+    "power": 88,
+    "weight": 2395,
+    "0-60mph": 18,
+    "year": 82
+  },
+  {
+    "name": "Chevrolet Cavalier Wagon",
+    "economy": 27,
+    "cylinders": 4,
+    "displacement": 112,
+    "power": 88,
+    "weight": 2640,
+    "0-60mph": 18.6,
+    "year": 82
+  },
+  {
+    "name": "Chevrolet Cavalier",
+    "economy": 28,
+    "cylinders": 4,
+    "displacement": 112,
+    "power": 88,
+    "weight": 2605,
+    "0-60mph": 19.6,
+    "year": 82
+  },
+  {
+    "name": "Chevrolet Chevelle Concours (Wagon)",
+    "economy": "",
+    "cylinders": 8,
+    "displacement": 350,
+    "power": 165,
+    "weight": 4142,
+    "0-60mph": 11.5,
+    "year": 70
+  },
+  {
+    "name": "Chevrolet Chevelle Concours (Wagon)",
+    "economy": 13,
+    "cylinders": 8,
+    "displacement": 307,
+    "power": 130,
+    "weight": 4098,
+    "0-60mph": 14,
+    "year": 72
+  },
+  {
+    "name": "Chevrolet Chevelle Malibu Classic",
+    "economy": 16,
+    "cylinders": 6,
+    "displacement": 250,
+    "power": 100,
+    "weight": 3781,
+    "0-60mph": 17,
+    "year": 74
+  },
+  {
+    "name": "Chevrolet Chevelle Malibu Classic",
+    "economy": 17.5,
+    "cylinders": 8,
+    "displacement": 305,
+    "power": 140,
+    "weight": 4215,
+    "0-60mph": 13,
+    "year": 76
+  },
+  {
+    "name": "Chevrolet Chevelle Malibu",
+    "economy": 17,
+    "cylinders": 6,
+    "displacement": 250,
+    "power": 100,
+    "weight": 3329,
+    "0-60mph": 15.5,
+    "year": 71
+  },
+  {
+    "name": "Chevrolet Chevelle Malibu",
+    "economy": 18,
+    "cylinders": 8,
+    "displacement": 307,
+    "power": 130,
+    "weight": 3504,
+    "0-60mph": 12,
+    "year": 70
+  },
+  {
+    "name": "Chevrolet Chevette",
+    "economy": 29,
+    "cylinders": 4,
+    "displacement": 85,
+    "power": 52,
+    "weight": 2035,
+    "0-60mph": 22.2,
+    "year": 76
+  },
+  {
+    "name": "Chevrolet Chevette",
+    "economy": 30,
+    "cylinders": 4,
+    "displacement": 98,
+    "power": 68,
+    "weight": 2155,
+    "0-60mph": 16.5,
+    "year": 78
+  },
+  {
+    "name": "Chevrolet Chevette",
+    "economy": 30.5,
+    "cylinders": 4,
+    "displacement": 98,
+    "power": 63,
+    "weight": 2051,
+    "0-60mph": 17,
+    "year": 77
+  },
+  {
+    "name": "Chevrolet Chevette",
+    "economy": 32.1,
+    "cylinders": 4,
+    "displacement": 98,
+    "power": 70,
+    "weight": 2120,
+    "0-60mph": 15.5,
+    "year": 80
+  },
+  {
+    "name": "Chevrolet Citation",
+    "economy": 23.5,
+    "cylinders": 6,
+    "displacement": 173,
+    "power": 110,
+    "weight": 2725,
+    "0-60mph": 12.6,
+    "year": 81
+  },
+  {
+    "name": "Chevrolet Citation",
+    "economy": 28,
+    "cylinders": 4,
+    "displacement": 151,
+    "power": 90,
+    "weight": 2678,
+    "0-60mph": 16.5,
+    "year": 80
+  },
+  {
+    "name": "Chevrolet Citation",
+    "economy": 28.8,
+    "cylinders": 6,
+    "displacement": 173,
+    "power": 115,
+    "weight": 2595,
+    "0-60mph": 11.3,
+    "year": 79
+  },
+  {
+    "name": "Chevrolet Concours",
+    "economy": 17.5,
+    "cylinders": 6,
+    "displacement": 250,
+    "power": 110,
+    "weight": 3520,
+    "0-60mph": 16.4,
+    "year": 77
+  },
+  {
+    "name": "Chevrolet Impala",
+    "economy": 11,
+    "cylinders": 8,
+    "displacement": 400,
+    "power": 150,
+    "weight": 4997,
+    "0-60mph": 14,
+    "year": 73
+  },
+  {
+    "name": "Chevrolet Impala",
+    "economy": 13,
+    "cylinders": 8,
+    "displacement": 350,
+    "power": 165,
+    "weight": 4274,
+    "0-60mph": 12,
+    "year": 72
+  },
+  {
+    "name": "Chevrolet Impala",
+    "economy": 14,
+    "cylinders": 8,
+    "displacement": 350,
+    "power": 165,
+    "weight": 4209,
+    "0-60mph": 12,
+    "year": 71
+  },
+  {
+    "name": "Chevrolet Impala",
+    "economy": 14,
+    "cylinders": 8,
+    "displacement": 454,
+    "power": 220,
+    "weight": 4354,
+    "0-60mph": 9,
+    "year": 70
+  },
+  {
+    "name": "Chevrolet Malibu Classic (Wagon)",
+    "economy": 19.2,
+    "cylinders": 8,
+    "displacement": 267,
+    "power": 125,
+    "weight": 3605,
+    "0-60mph": 15,
+    "year": 79
+  },
+  {
+    "name": "Chevrolet Malibu",
+    "economy": 13,
+    "cylinders": 8,
+    "displacement": 350,
+    "power": 145,
+    "weight": 3988,
+    "0-60mph": 13,
+    "year": 73
+  },
+  {
+    "name": "Chevrolet Malibu",
+    "economy": 20.5,
+    "cylinders": 6,
+    "displacement": 200,
+    "power": 95,
+    "weight": 3155,
+    "0-60mph": 18.2,
+    "year": 78
+  },
+  {
+    "name": "Chevrolet Monte Carlo Landau",
+    "economy": 15.5,
+    "cylinders": 8,
+    "displacement": 350,
+    "power": 170,
+    "weight": 4165,
+    "0-60mph": 11.4,
+    "year": 77
+  },
+  {
+    "name": "Chevrolet Monte Carlo Landau",
+    "economy": 19.2,
+    "cylinders": 8,
+    "displacement": 305,
+    "power": 145,
+    "weight": 3425,
+    "0-60mph": 13.2,
+    "year": 78
+  },
+  {
+    "name": "Chevrolet Monte Carlo S",
+    "economy": 15,
+    "cylinders": 8,
+    "displacement": 350,
+    "power": 145,
+    "weight": 4082,
+    "0-60mph": 13,
+    "year": 73
+  },
+  {
+    "name": "Chevrolet Monte Carlo",
+    "economy": 15,
+    "cylinders": 8,
+    "displacement": 400,
+    "power": 150,
+    "weight": 3761,
+    "0-60mph": 9.5,
+    "year": 70
+  },
+  {
+    "name": "Chevrolet Monza 2+2",
+    "economy": 20,
+    "cylinders": 8,
+    "displacement": 262,
+    "power": 110,
+    "weight": 3221,
+    "0-60mph": 13.5,
+    "year": 75
+  },
+  {
+    "name": "Chevrolet Nova Custom",
+    "economy": 16,
+    "cylinders": 6,
+    "displacement": 250,
+    "power": 100,
+    "weight": 3278,
+    "0-60mph": 18,
+    "year": 73
+  },
+  {
+    "name": "Chevrolet Nova",
+    "economy": 15,
+    "cylinders": 6,
+    "displacement": 250,
+    "power": 100,
+    "weight": 3336,
+    "0-60mph": 17,
+    "year": 74
+  },
+  {
+    "name": "Chevrolet Nova",
+    "economy": 18,
+    "cylinders": 6,
+    "displacement": 250,
+    "power": 105,
+    "weight": 3459,
+    "0-60mph": 16,
+    "year": 75
+  },
+  {
+    "name": "Chevrolet Nova",
+    "economy": 22,
+    "cylinders": 6,
+    "displacement": 250,
+    "power": 105,
+    "weight": 3353,
+    "0-60mph": 14.5,
+    "year": 76
+  },
+  {
+    "name": "Chevrolet Vega (Wagon)",
+    "economy": 22,
+    "cylinders": 4,
+    "displacement": 140,
+    "power": 72,
+    "weight": 2408,
+    "0-60mph": 19,
+    "year": 71
+  },
+  {
+    "name": "Chevrolet Vega 2300",
+    "economy": 28,
+    "cylinders": 4,
+    "displacement": 140,
+    "power": 90,
+    "weight": 2264,
+    "0-60mph": 15.5,
+    "year": 71
+  },
+  {
+    "name": "Chevrolet Vega",
+    "economy": 20,
+    "cylinders": 4,
+    "displacement": 140,
+    "power": 90,
+    "weight": 2408,
+    "0-60mph": 19.5,
+    "year": 72
+  },
+  {
+    "name": "Chevrolet Vega",
+    "economy": 21,
+    "cylinders": 4,
+    "displacement": 140,
+    "power": 72,
+    "weight": 2401,
+    "0-60mph": 19.5,
+    "year": 73
+  },
+  {
+    "name": "Chevrolet Vega",
+    "economy": 25,
+    "cylinders": 4,
+    "displacement": 140,
+    "power": 75,
+    "weight": 2542,
+    "0-60mph": 17,
+    "year": 74
+  },
+  {
+    "name": "Chevrolet Woody",
+    "economy": 24.5,
+    "cylinders": 4,
+    "displacement": 98,
+    "power": 60,
+    "weight": 2164,
+    "0-60mph": 22.1,
+    "year": 76
+  },
+  {
+    "name": "Chevy C10",
+    "economy": 13,
+    "cylinders": 8,
+    "displacement": 350,
+    "power": 145,
+    "weight": 4055,
+    "0-60mph": 12,
+    "year": 76
+  },
+  {
+    "name": "Chevy C20",
+    "economy": 10,
+    "cylinders": 8,
+    "displacement": 307,
+    "power": 200,
+    "weight": 4376,
+    "0-60mph": 15,
+    "year": 70
+  },
+  {
+    "name": "Chevy S-10",
+    "economy": 31,
+    "cylinders": 4,
+    "displacement": 119,
+    "power": 82,
+    "weight": 2720,
+    "0-60mph": 19.4,
+    "year": 82
+  },
+  {
+    "name": "Chrysler Cordoba",
+    "economy": 15.5,
+    "cylinders": 8,
+    "displacement": 400,
+    "power": 190,
+    "weight": 4325,
+    "0-60mph": 12.2,
+    "year": 77
+  },
+  {
+    "name": "Chrysler Lebaron Medallion",
+    "economy": 26,
+    "cylinders": 4,
+    "displacement": 156,
+    "power": 92,
+    "weight": 2585,
+    "0-60mph": 14.5,
+    "year": 82
+  },
+  {
+    "name": "Chrysler Lebaron Salon",
+    "economy": 17.6,
+    "cylinders": 6,
+    "displacement": 225,
+    "power": 85,
+    "weight": 3465,
+    "0-60mph": 16.6,
+    "year": 81
+  },
+  {
+    "name": "Chrysler Lebaron Town & Country (Wagon)",
+    "economy": 18.5,
+    "cylinders": 8,
+    "displacement": 360,
+    "power": 150,
+    "weight": 3940,
+    "0-60mph": 13,
+    "year": 79
+  },
+  {
+    "name": "Chrysler New Yorker Brougham",
+    "economy": 13,
+    "cylinders": 8,
+    "displacement": 440,
+    "power": 215,
+    "weight": 4735,
+    "0-60mph": 11,
+    "year": 73
+  },
+  {
+    "name": "Chrysler Newport Royal",
+    "economy": 13,
+    "cylinders": 8,
+    "displacement": 400,
+    "power": 190,
+    "weight": 4422,
+    "0-60mph": 12.5,
+    "year": 72
+  },
+  {
+    "name": "Citroen DS-21 Pallas",
+    "economy": "",
+    "cylinders": 4,
+    "displacement": 133,
+    "power": 115,
+    "weight": 3090,
+    "0-60mph": 17.5,
+    "year": 70
+  },
+  {
+    "name": "Datsun 1200",
+    "economy": 35,
+    "cylinders": 4,
+    "displacement": 72,
+    "power": 69,
+    "weight": 1613,
+    "0-60mph": 18,
+    "year": 71
+  },
+  {
+    "name": "Datsun 200SX",
+    "economy": 23.9,
+    "cylinders": 4,
+    "displacement": 119,
+    "power": 97,
+    "weight": 2405,
+    "0-60mph": 14.9,
+    "year": 78
+  },
+  {
+    "name": "Datsun 200SX",
+    "economy": 32.9,
+    "cylinders": 4,
+    "displacement": 119,
+    "power": 100,
+    "weight": 2615,
+    "0-60mph": 14.8,
+    "year": 81
+  },
+  {
+    "name": "Datsun 210",
+    "economy": 31.8,
+    "cylinders": 4,
+    "displacement": 85,
+    "power": 65,
+    "weight": 2020,
+    "0-60mph": 19.2,
+    "year": 79
+  },
+  {
+    "name": "Datsun 210",
+    "economy": 37,
+    "cylinders": 4,
+    "displacement": 85,
+    "power": 65,
+    "weight": 1975,
+    "0-60mph": 19.4,
+    "year": 81
+  },
+  {
+    "name": "Datsun 210",
+    "economy": 40.8,
+    "cylinders": 4,
+    "displacement": 85,
+    "power": 65,
+    "weight": 2110,
+    "0-60mph": 19.2,
+    "year": 80
+  },
+  {
+    "name": "Datsun 280ZX",
+    "economy": 32.7,
+    "cylinders": 6,
+    "displacement": 168,
+    "power": 132,
+    "weight": 2910,
+    "0-60mph": 11.4,
+    "year": 80
+  },
+  {
+    "name": "Datsun 310 GX",
+    "economy": 38,
+    "cylinders": 4,
+    "displacement": 91,
+    "power": 67,
+    "weight": 1995,
+    "0-60mph": 16.2,
+    "year": 82
+  },
+  {
+    "name": "Datsun 310",
+    "economy": 37.2,
+    "cylinders": 4,
+    "displacement": 86,
+    "power": 65,
+    "weight": 2019,
+    "0-60mph": 16.4,
+    "year": 80
+  },
+  {
+    "name": "Datsun 510 (Wagon)",
+    "economy": 28,
+    "cylinders": 4,
+    "displacement": 97,
+    "power": 92,
+    "weight": 2288,
+    "0-60mph": 17,
+    "year": 72
+  },
+  {
+    "name": "Datsun 510 Hatchback",
+    "economy": 37,
+    "cylinders": 4,
+    "displacement": 119,
+    "power": 92,
+    "weight": 2434,
+    "0-60mph": 15,
+    "year": 80
+  },
+  {
+    "name": "Datsun 510",
+    "economy": 27.2,
+    "cylinders": 4,
+    "displacement": 119,
+    "power": 97,
+    "weight": 2300,
+    "0-60mph": 14.7,
+    "year": 78
+  },
+  {
+    "name": "Datsun 610",
+    "economy": 22,
+    "cylinders": 4,
+    "displacement": 108,
+    "power": 94,
+    "weight": 2379,
+    "0-60mph": 16.5,
+    "year": 73
+  },
+  {
+    "name": "Datsun 710",
+    "economy": 24,
+    "cylinders": 4,
+    "displacement": 119,
+    "power": 97,
+    "weight": 2545,
+    "0-60mph": 17,
+    "year": 75
+  },
+  {
+    "name": "Datsun 710",
+    "economy": 32,
+    "cylinders": 4,
+    "displacement": 83,
+    "power": 61,
+    "weight": 2003,
+    "0-60mph": 19,
+    "year": 74
+  },
+  {
+    "name": "Datsun 810 Maxima",
+    "economy": 24.2,
+    "cylinders": 6,
+    "displacement": 146,
+    "power": 120,
+    "weight": 2930,
+    "0-60mph": 13.8,
+    "year": 81
+  },
+  {
+    "name": "Datsun 810",
+    "economy": 22,
+    "cylinders": 6,
+    "displacement": 146,
+    "power": 97,
+    "weight": 2815,
+    "0-60mph": 14.5,
+    "year": 77
+  },
+  {
+    "name": "Datsun B-210",
+    "economy": 32,
+    "cylinders": 4,
+    "displacement": 85,
+    "power": 70,
+    "weight": 1990,
+    "0-60mph": 17,
+    "year": 76
+  },
+  {
+    "name": "Datsun B210 GX",
+    "economy": 39.4,
+    "cylinders": 4,
+    "displacement": 85,
+    "power": 70,
+    "weight": 2070,
+    "0-60mph": 18.6,
+    "year": 78
+  },
+  {
+    "name": "Datsun B210",
+    "economy": 31,
+    "cylinders": 4,
+    "displacement": 79,
+    "power": 67,
+    "weight": 1950,
+    "0-60mph": 19,
+    "year": 74
+  },
+  {
+    "name": "Datsun F-10 Hatchback",
+    "economy": 33.5,
+    "cylinders": 4,
+    "displacement": 85,
+    "power": 70,
+    "weight": 1945,
+    "0-60mph": 16.8,
+    "year": 77
+  },
+  {
+    "name": "Datsun PL510",
+    "economy": 27,
+    "cylinders": 4,
+    "displacement": 97,
+    "power": 88,
+    "weight": 2130,
+    "0-60mph": 14.5,
+    "year": 70
+  },
+  {
+    "name": "Datsun PL510",
+    "economy": 27,
+    "cylinders": 4,
+    "displacement": 97,
+    "power": 88,
+    "weight": 2130,
+    "0-60mph": 14.5,
+    "year": 71
+  },
+  {
+    "name": "Dodge Aries SE",
+    "economy": 29,
+    "cylinders": 4,
+    "displacement": 135,
+    "power": 84,
+    "weight": 2525,
+    "0-60mph": 16,
+    "year": 82
+  },
+  {
+    "name": "Dodge Aries Wagon (Wagon)",
+    "economy": 25.8,
+    "cylinders": 4,
+    "displacement": 156,
+    "power": 92,
+    "weight": 2620,
+    "0-60mph": 14.4,
+    "year": 81
+  },
+  {
+    "name": "Dodge Aspen 6",
+    "economy": 20.6,
+    "cylinders": 6,
+    "displacement": 225,
+    "power": 110,
+    "weight": 3360,
+    "0-60mph": 16.6,
+    "year": 79
+  },
+  {
+    "name": "Dodge Aspen SE",
+    "economy": 20,
+    "cylinders": 6,
+    "displacement": 225,
+    "power": 100,
+    "weight": 3651,
+    "0-60mph": 17.7,
+    "year": 76
+  },
+  {
+    "name": "Dodge Aspen",
+    "economy": 18.6,
+    "cylinders": 6,
+    "displacement": 225,
+    "power": 110,
+    "weight": 3620,
+    "0-60mph": 18.7,
+    "year": 78
+  },
+  {
+    "name": "Dodge Aspen",
+    "economy": 19.1,
+    "cylinders": 6,
+    "displacement": 225,
+    "power": 90,
+    "weight": 3381,
+    "0-60mph": 18.7,
+    "year": 80
+  },
+  {
+    "name": "Dodge Challenger SE",
+    "economy": 15,
+    "cylinders": 8,
+    "displacement": 383,
+    "power": 170,
+    "weight": 3563,
+    "0-60mph": 10,
+    "year": 70
+  },
+  {
+    "name": "Dodge Charger 2.2",
+    "economy": 36,
+    "cylinders": 4,
+    "displacement": 135,
+    "power": 84,
+    "weight": 2370,
+    "0-60mph": 13,
+    "year": 82
+  },
+  {
+    "name": "Dodge Colt (Wagon)",
+    "economy": 28,
+    "cylinders": 4,
+    "displacement": 98,
+    "power": 80,
+    "weight": 2164,
+    "0-60mph": 15,
+    "year": 72
+  },
+  {
+    "name": "Dodge Colt Hardtop",
+    "economy": 25,
+    "cylinders": 4,
+    "displacement": 97.5,
+    "power": 80,
+    "weight": 2126,
+    "0-60mph": 17,
+    "year": 72
+  },
+  {
+    "name": "Dodge Colt Hatchback Custom",
+    "economy": 35.7,
+    "cylinders": 4,
+    "displacement": 98,
+    "power": 80,
+    "weight": 1915,
+    "0-60mph": 14.4,
+    "year": 79
+  },
+  {
+    "name": "Dodge Colt M/M",
+    "economy": 33.5,
+    "cylinders": 4,
+    "displacement": 98,
+    "power": 83,
+    "weight": 2075,
+    "0-60mph": 15.9,
+    "year": 77
+  },
+  {
+    "name": "Dodge Colt",
+    "economy": 26,
+    "cylinders": 4,
+    "displacement": 98,
+    "power": 79,
+    "weight": 2255,
+    "0-60mph": 17.7,
+    "year": 76
+  },
+  {
+    "name": "Dodge Colt",
+    "economy": 27.9,
+    "cylinders": 4,
+    "displacement": 156,
+    "power": 105,
+    "weight": 2800,
+    "0-60mph": 14.4,
+    "year": 80
+  },
+  {
+    "name": "Dodge Colt",
+    "economy": 28,
+    "cylinders": 4,
+    "displacement": 90,
+    "power": 75,
+    "weight": 2125,
+    "0-60mph": 14.5,
+    "year": 74
+  },
+  {
+    "name": "Dodge Coronet Brougham",
+    "economy": 16,
+    "cylinders": 8,
+    "displacement": 318,
+    "power": 150,
+    "weight": 4190,
+    "0-60mph": 13,
+    "year": 76
+  },
+  {
+    "name": "Dodge Coronet Custom (Wagon)",
+    "economy": 14,
+    "cylinders": 8,
+    "displacement": 318,
+    "power": 150,
+    "weight": 4457,
+    "0-60mph": 13.5,
+    "year": 74
+  },
+  {
+    "name": "Dodge Coronet Custom",
+    "economy": 15,
+    "cylinders": 8,
+    "displacement": 318,
+    "power": 150,
+    "weight": 3777,
+    "0-60mph": 12.5,
+    "year": 73
+  },
+  {
+    "name": "Dodge D100",
+    "economy": 13,
+    "cylinders": 8,
+    "displacement": 318,
+    "power": 150,
+    "weight": 3755,
+    "0-60mph": 14,
+    "year": 76
+  },
+  {
+    "name": "Dodge D200",
+    "economy": 11,
+    "cylinders": 8,
+    "displacement": 318,
+    "power": 210,
+    "weight": 4382,
+    "0-60mph": 13.5,
+    "year": 70
+  },
+  {
+    "name": "Dodge Dart Custom",
+    "economy": 15,
+    "cylinders": 8,
+    "displacement": 318,
+    "power": 150,
+    "weight": 3399,
+    "0-60mph": 11,
+    "year": 73
+  },
+  {
+    "name": "Dodge Diplomat",
+    "economy": 19.4,
+    "cylinders": 8,
+    "displacement": 318,
+    "power": 140,
+    "weight": 3735,
+    "0-60mph": 13.2,
+    "year": 78
+  },
+  {
+    "name": "Dodge Magnum XE",
+    "economy": 17.5,
+    "cylinders": 8,
+    "displacement": 318,
+    "power": 140,
+    "weight": 4080,
+    "0-60mph": 13.7,
+    "year": 78
+  },
+  {
+    "name": "Dodge Monaco (Wagon)",
+    "economy": 12,
+    "cylinders": 8,
+    "displacement": 383,
+    "power": 180,
+    "weight": 4955,
+    "0-60mph": 11.5,
+    "year": 71
+  },
+  {
+    "name": "Dodge Monaco Brougham",
+    "economy": 15.5,
+    "cylinders": 8,
+    "displacement": 318,
+    "power": 145,
+    "weight": 4140,
+    "0-60mph": 13.7,
+    "year": 77
+  },
+  {
+    "name": "Dodge Omni",
+    "economy": 30.9,
+    "cylinders": 4,
+    "displacement": 105,
+    "power": 75,
+    "weight": 2230,
+    "0-60mph": 14.5,
+    "year": 78
+  },
+  {
+    "name": "Dodge Rampage",
+    "economy": 32,
+    "cylinders": 4,
+    "displacement": 135,
+    "power": 84,
+    "weight": 2295,
+    "0-60mph": 11.6,
+    "year": 82
+  },
+  {
+    "name": "Dodge St. Regis",
+    "economy": 18.2,
+    "cylinders": 8,
+    "displacement": 318,
+    "power": 135,
+    "weight": 3830,
+    "0-60mph": 15.2,
+    "year": 79
+  },
+  {
+    "name": "Fiat 124 Sport Coupe",
+    "economy": 26,
+    "cylinders": 4,
+    "displacement": 98,
+    "power": 90,
+    "weight": 2265,
+    "0-60mph": 15.5,
+    "year": 73
+  },
+  {
+    "name": "Fiat 124 TC",
+    "economy": 26,
+    "cylinders": 4,
+    "displacement": 116,
+    "power": 75,
+    "weight": 2246,
+    "0-60mph": 14,
+    "year": 74
+  },
+  {
+    "name": "Fiat 124B",
+    "economy": 30,
+    "cylinders": 4,
+    "displacement": 88,
+    "power": 76,
+    "weight": 2065,
+    "0-60mph": 14.5,
+    "year": 71
+  },
+  {
+    "name": "Fiat 128",
+    "economy": 24,
+    "cylinders": 4,
+    "displacement": 90,
+    "power": 75,
+    "weight": 2108,
+    "0-60mph": 15.5,
+    "year": 74
+  },
+  {
+    "name": "Fiat 128",
+    "economy": 29,
+    "cylinders": 4,
+    "displacement": 68,
+    "power": 49,
+    "weight": 1867,
+    "0-60mph": 19.5,
+    "year": 73
+  },
+  {
+    "name": "Fiat 131",
+    "economy": 28,
+    "cylinders": 4,
+    "displacement": 107,
+    "power": 86,
+    "weight": 2464,
+    "0-60mph": 15.5,
+    "year": 76
+  },
+  {
+    "name": "Fiat Strada Custom",
+    "economy": 37.3,
+    "cylinders": 4,
+    "displacement": 91,
+    "power": 69,
+    "weight": 2130,
+    "0-60mph": 14.7,
+    "year": 79
+  },
+  {
+    "name": "Fiat X1.9",
+    "economy": 31,
+    "cylinders": 4,
+    "displacement": 79,
+    "power": 67,
+    "weight": 2000,
+    "0-60mph": 16,
+    "year": 74
+  },
+  {
+    "name": "Ford Capri II",
+    "economy": 25,
+    "cylinders": 4,
+    "displacement": 140,
+    "power": 92,
+    "weight": 2572,
+    "0-60mph": 14.9,
+    "year": 76
+  },
+  {
+    "name": "Ford Country Squire (Wagon)",
+    "economy": 13,
+    "cylinders": 8,
+    "displacement": 400,
+    "power": 170,
+    "weight": 4746,
+    "0-60mph": 12,
+    "year": 71
+  },
+  {
+    "name": "Ford Country Squire (Wagon)",
+    "economy": 15.5,
+    "cylinders": 8,
+    "displacement": 351,
+    "power": 142,
+    "weight": 4054,
+    "0-60mph": 14.3,
+    "year": 79
+  },
+  {
+    "name": "Ford Country",
+    "economy": 12,
+    "cylinders": 8,
+    "displacement": 400,
+    "power": 167,
+    "weight": 4906,
+    "0-60mph": 12.5,
+    "year": 73
+  },
+  {
+    "name": "Ford Escort 2H",
+    "economy": 29.9,
+    "cylinders": 4,
+    "displacement": 98,
+    "power": 65,
+    "weight": 2380,
+    "0-60mph": 20.7,
+    "year": 81
+  },
+  {
+    "name": "Ford Escort 4W",
+    "economy": 34.4,
+    "cylinders": 4,
+    "displacement": 98,
+    "power": 65,
+    "weight": 2045,
+    "0-60mph": 16.2,
+    "year": 81
+  },
+  {
+    "name": "Ford F108",
+    "economy": 13,
+    "cylinders": 8,
+    "displacement": 302,
+    "power": 130,
+    "weight": 3870,
+    "0-60mph": 15,
+    "year": 76
+  },
+  {
+    "name": "Ford F250",
+    "economy": 10,
+    "cylinders": 8,
+    "displacement": 360,
+    "power": 215,
+    "weight": 4615,
+    "0-60mph": 14,
+    "year": 70
+  },
+  {
+    "name": "Ford Fairmont (Auto)",
+    "economy": 20.2,
+    "cylinders": 6,
+    "displacement": 200,
+    "power": 85,
+    "weight": 2965,
+    "0-60mph": 15.8,
+    "year": 78
+  },
+  {
+    "name": "Ford Fairmont (Man)",
+    "economy": 25.1,
+    "cylinders": 4,
+    "displacement": 140,
+    "power": 88,
+    "weight": 2720,
+    "0-60mph": 15.4,
+    "year": 78
+  },
+  {
+    "name": "Ford Fairmont 4",
+    "economy": 22.3,
+    "cylinders": 4,
+    "displacement": 140,
+    "power": 88,
+    "weight": 2890,
+    "0-60mph": 17.3,
+    "year": 79
+  },
+  {
+    "name": "Ford Fairmont Futura",
+    "economy": 24,
+    "cylinders": 4,
+    "displacement": 140,
+    "power": 92,
+    "weight": 2865,
+    "0-60mph": 16.4,
+    "year": 82
+  },
+  {
+    "name": "Ford Fairmont",
+    "economy": 26.4,
+    "cylinders": 4,
+    "displacement": 140,
+    "power": 88,
+    "weight": 2870,
+    "0-60mph": 18.1,
+    "year": 80
+  },
+  {
+    "name": "Ford Fiesta",
+    "economy": 36.1,
+    "cylinders": 4,
+    "displacement": 98,
+    "power": 66,
+    "weight": 1800,
+    "0-60mph": 14.4,
+    "year": 78
+  },
+  {
+    "name": "Ford Futura",
+    "economy": 18.1,
+    "cylinders": 8,
+    "displacement": 302,
+    "power": 139,
+    "weight": 3205,
+    "0-60mph": 11.2,
+    "year": 78
+  },
+  {
+    "name": "Ford Galaxie 500",
+    "economy": 14,
+    "cylinders": 8,
+    "displacement": 351,
+    "power": 153,
+    "weight": 4129,
+    "0-60mph": 13,
+    "year": 72
+  },
+  {
+    "name": "Ford Galaxie 500",
+    "economy": 14,
+    "cylinders": 8,
+    "displacement": 351,
+    "power": 153,
+    "weight": 4154,
+    "0-60mph": 13.5,
+    "year": 71
+  },
+  {
+    "name": "Ford Galaxie 500",
+    "economy": 15,
+    "cylinders": 8,
+    "displacement": 429,
+    "power": 198,
+    "weight": 4341,
+    "0-60mph": 10,
+    "year": 70
+  },
+  {
+    "name": "Ford Gran Torino (Wagon)",
+    "economy": 13,
+    "cylinders": 8,
+    "displacement": 302,
+    "power": 140,
+    "weight": 4294,
+    "0-60mph": 16,
+    "year": 72
+  },
+  {
+    "name": "Ford Gran Torino (Wagon)",
+    "economy": 14,
+    "cylinders": 8,
+    "displacement": 302,
+    "power": 140,
+    "weight": 4638,
+    "0-60mph": 16,
+    "year": 74
+  },
+  {
+    "name": "Ford Gran Torino",
+    "economy": 14,
+    "cylinders": 8,
+    "displacement": 302,
+    "power": 137,
+    "weight": 4042,
+    "0-60mph": 14.5,
+    "year": 73
+  },
+  {
+    "name": "Ford Gran Torino",
+    "economy": 14.5,
+    "cylinders": 8,
+    "displacement": 351,
+    "power": 152,
+    "weight": 4215,
+    "0-60mph": 12.8,
+    "year": 76
+  },
+  {
+    "name": "Ford Gran Torino",
+    "economy": 16,
+    "cylinders": 8,
+    "displacement": 302,
+    "power": 140,
+    "weight": 4141,
+    "0-60mph": 14,
+    "year": 74
+  },
+  {
+    "name": "Ford Granada Ghia",
+    "economy": 18,
+    "cylinders": 6,
+    "displacement": 250,
+    "power": 78,
+    "weight": 3574,
+    "0-60mph": 21,
+    "year": 76
+  },
+  {
+    "name": "Ford Granada GL",
+    "economy": 20.2,
+    "cylinders": 6,
+    "displacement": 200,
+    "power": 88,
+    "weight": 3060,
+    "0-60mph": 17.1,
+    "year": 81
+  },
+  {
+    "name": "Ford Granada L",
+    "economy": 22,
+    "cylinders": 6,
+    "displacement": 232,
+    "power": 112,
+    "weight": 2835,
+    "0-60mph": 14.7,
+    "year": 82
+  },
+  {
+    "name": "Ford Granada",
+    "economy": 18.5,
+    "cylinders": 6,
+    "displacement": 250,
+    "power": 98,
+    "weight": 3525,
+    "0-60mph": 19,
+    "year": 77
+  },
+  {
+    "name": "Ford LTD Landau",
+    "economy": 17.6,
+    "cylinders": 8,
+    "displacement": 302,
+    "power": 129,
+    "weight": 3725,
+    "0-60mph": 13.4,
+    "year": 79
+  },
+  {
+    "name": "Ford LTD",
+    "economy": 13,
+    "cylinders": 8,
+    "displacement": 351,
+    "power": 158,
+    "weight": 4363,
+    "0-60mph": 13,
+    "year": 73
+  },
+  {
+    "name": "Ford LTD",
+    "economy": 14,
+    "cylinders": 8,
+    "displacement": 351,
+    "power": 148,
+    "weight": 4657,
+    "0-60mph": 13.5,
+    "year": 75
+  },
+  {
+    "name": "Ford Maverick",
+    "economy": 15,
+    "cylinders": 6,
+    "displacement": 250,
+    "power": 72,
+    "weight": 3158,
+    "0-60mph": 19.5,
+    "year": 75
+  },
+  {
+    "name": "Ford Maverick",
+    "economy": 18,
+    "cylinders": 6,
+    "displacement": 250,
+    "power": 88,
+    "weight": 3021,
+    "0-60mph": 16.5,
+    "year": 73
+  },
+  {
+    "name": "Ford Maverick",
+    "economy": 21,
+    "cylinders": 6,
+    "displacement": 200,
+    "power": "",
+    "weight": 2875,
+    "0-60mph": 17,
+    "year": 74
+  },
+  {
+    "name": "Ford Maverick",
+    "economy": 21,
+    "cylinders": 6,
+    "displacement": 200,
+    "power": 85,
+    "weight": 2587,
+    "0-60mph": 16,
+    "year": 70
+  },
+  {
+    "name": "Ford Maverick",
+    "economy": 24,
+    "cylinders": 6,
+    "displacement": 200,
+    "power": 81,
+    "weight": 3012,
+    "0-60mph": 17.6,
+    "year": 76
+  },
+  {
+    "name": "Ford Mustang Boss 302",
+    "economy": "",
+    "cylinders": 8,
+    "displacement": 302,
+    "power": 140,
+    "weight": 3353,
+    "0-60mph": 8,
+    "year": 70
+  },
+  {
+    "name": "Ford Mustang Cobra",
+    "economy": 23.6,
+    "cylinders": 4,
+    "displacement": 140,
+    "power": "",
+    "weight": 2905,
+    "0-60mph": 14.3,
+    "year": 80
+  },
+  {
+    "name": "Ford Mustang GL",
+    "economy": 27,
+    "cylinders": 4,
+    "displacement": 140,
+    "power": 86,
+    "weight": 2790,
+    "0-60mph": 15.6,
+    "year": 82
+  },
+  {
+    "name": "Ford Mustang II 2+2",
+    "economy": 25.5,
+    "cylinders": 4,
+    "displacement": 140,
+    "power": 89,
+    "weight": 2755,
+    "0-60mph": 15.8,
+    "year": 77
+  },
+  {
+    "name": "Ford Mustang II",
+    "economy": 13,
+    "cylinders": 8,
+    "displacement": 302,
+    "power": 129,
+    "weight": 3169,
+    "0-60mph": 12,
+    "year": 75
+  },
+  {
+    "name": "Ford Mustang",
+    "economy": 18,
+    "cylinders": 6,
+    "displacement": 250,
+    "power": 88,
+    "weight": 3139,
+    "0-60mph": 14.5,
+    "year": 71
+  },
+  {
+    "name": "Ford Pinto (Wagon)",
+    "economy": 22,
+    "cylinders": 4,
+    "displacement": 122,
+    "power": 86,
+    "weight": 2395,
+    "0-60mph": 16,
+    "year": 72
+  },
+  {
+    "name": "Ford Pinto Runabout",
+    "economy": 21,
+    "cylinders": 4,
+    "displacement": 122,
+    "power": 86,
+    "weight": 2226,
+    "0-60mph": 16.5,
+    "year": 72
+  },
+  {
+    "name": "Ford Pinto",
+    "economy": 18,
+    "cylinders": 6,
+    "displacement": 171,
+    "power": 97,
+    "weight": 2984,
+    "0-60mph": 14.5,
+    "year": 75
+  },
+  {
+    "name": "Ford Pinto",
+    "economy": 19,
+    "cylinders": 4,
+    "displacement": 122,
+    "power": 85,
+    "weight": 2310,
+    "0-60mph": 18.5,
+    "year": 73
+  },
+  {
+    "name": "Ford Pinto",
+    "economy": 23,
+    "cylinders": 4,
+    "displacement": 140,
+    "power": 83,
+    "weight": 2639,
+    "0-60mph": 17,
+    "year": 75
+  },
+  {
+    "name": "Ford Pinto",
+    "economy": 25,
+    "cylinders": 4,
+    "displacement": 98,
+    "power": "",
+    "weight": 2046,
+    "0-60mph": 19,
+    "year": 71
+  },
+  {
+    "name": "Ford Pinto",
+    "economy": 26,
+    "cylinders": 4,
+    "displacement": 122,
+    "power": 80,
+    "weight": 2451,
+    "0-60mph": 16.5,
+    "year": 74
+  },
+  {
+    "name": "Ford Pinto",
+    "economy": 26.5,
+    "cylinders": 4,
+    "displacement": 140,
+    "power": 72,
+    "weight": 2565,
+    "0-60mph": 13.6,
+    "year": 76
+  },
+  {
+    "name": "Ford Ranger",
+    "economy": 28,
+    "cylinders": 4,
+    "displacement": 120,
+    "power": 79,
+    "weight": 2625,
+    "0-60mph": 18.6,
+    "year": 82
+  },
+  {
+    "name": "Ford Thunderbird",
+    "economy": 16,
+    "cylinders": 8,
+    "displacement": 351,
+    "power": 149,
+    "weight": 4335,
+    "0-60mph": 14.5,
+    "year": 77
+  },
+  {
+    "name": "Ford Torino (Wagon)",
+    "economy": "",
+    "cylinders": 8,
+    "displacement": 351,
+    "power": 153,
+    "weight": 4034,
+    "0-60mph": 11,
+    "year": 70
+  },
+  {
+    "name": "Ford Torino 500",
+    "economy": 19,
+    "cylinders": 6,
+    "displacement": 250,
+    "power": 88,
+    "weight": 3302,
+    "0-60mph": 15.5,
+    "year": 71
+  },
+  {
+    "name": "Ford Torino",
+    "economy": 17,
+    "cylinders": 8,
+    "displacement": 302,
+    "power": 140,
+    "weight": 3449,
+    "0-60mph": 10.5,
+    "year": 70
+  },
+  {
+    "name": "Hi 1200D",
+    "economy": 9,
+    "cylinders": 8,
+    "displacement": 304,
+    "power": 193,
+    "weight": 4732,
+    "0-60mph": 18.5,
+    "year": 70
+  },
+  {
+    "name": "Honda Accord CVCC",
+    "economy": 31.5,
+    "cylinders": 4,
+    "displacement": 98,
+    "power": 68,
+    "weight": 2045,
+    "0-60mph": 18.5,
+    "year": 77
+  },
+  {
+    "name": "Honda Accord LX",
+    "economy": 29.5,
+    "cylinders": 4,
+    "displacement": 98,
+    "power": 68,
+    "weight": 2135,
+    "0-60mph": 16.6,
+    "year": 78
+  },
+  {
+    "name": "Honda Accord",
+    "economy": 32.4,
+    "cylinders": 4,
+    "displacement": 107,
+    "power": 72,
+    "weight": 2290,
+    "0-60mph": 17,
+    "year": 80
+  },
+  {
+    "name": "Honda Accord",
+    "economy": 36,
+    "cylinders": 4,
+    "displacement": 107,
+    "power": 75,
+    "weight": 2205,
+    "0-60mph": 14.5,
+    "year": 82
+  },
+  {
+    "name": "Honda Civic (Auto)",
+    "economy": 32,
+    "cylinders": 4,
+    "displacement": 91,
+    "power": 67,
+    "weight": 1965,
+    "0-60mph": 15.7,
+    "year": 82
+  },
+  {
+    "name": "Honda Civic 1300",
+    "economy": 35.1,
+    "cylinders": 4,
+    "displacement": 81,
+    "power": 60,
+    "weight": 1760,
+    "0-60mph": 16.1,
+    "year": 81
+  },
+  {
+    "name": "Honda Civic 1500 GL",
+    "economy": 44.6,
+    "cylinders": 4,
+    "displacement": 91,
+    "power": 67,
+    "weight": 1850,
+    "0-60mph": 13.8,
+    "year": 80
+  },
+  {
+    "name": "Honda Civic CVCC",
+    "economy": 33,
+    "cylinders": 4,
+    "displacement": 91,
+    "power": 53,
+    "weight": 1795,
+    "0-60mph": 17.5,
+    "year": 75
+  },
+  {
+    "name": "Honda Civic CVCC",
+    "economy": 36.1,
+    "cylinders": 4,
+    "displacement": 91,
+    "power": 60,
+    "weight": 1800,
+    "0-60mph": 16.4,
+    "year": 78
+  },
+  {
+    "name": "Honda Civic",
+    "economy": 24,
+    "cylinders": 4,
+    "displacement": 120,
+    "power": 97,
+    "weight": 2489,
+    "0-60mph": 15,
+    "year": 74
+  },
+  {
+    "name": "Honda Civic",
+    "economy": 33,
+    "cylinders": 4,
+    "displacement": 91,
+    "power": 53,
+    "weight": 1795,
+    "0-60mph": 17.4,
+    "year": 76
+  },
+  {
+    "name": "Honda Civic",
+    "economy": 38,
+    "cylinders": 4,
+    "displacement": 91,
+    "power": 67,
+    "weight": 1965,
+    "0-60mph": 15,
+    "year": 82
+  },
+  {
+    "name": "Honda Prelude",
+    "economy": 33.7,
+    "cylinders": 4,
+    "displacement": 107,
+    "power": 75,
+    "weight": 2210,
+    "0-60mph": 14.4,
+    "year": 81
+  },
+  {
+    "name": "Maxda GLC Deluxe",
+    "economy": 34.1,
+    "cylinders": 4,
+    "displacement": 86,
+    "power": 65,
+    "weight": 1975,
+    "0-60mph": 15.2,
+    "year": 79
+  },
+  {
+    "name": "Maxda RX-3",
+    "economy": 18,
+    "cylinders": 3,
+    "displacement": 70,
+    "power": 90,
+    "weight": 2124,
+    "0-60mph": 13.5,
+    "year": 73
+  },
+  {
+    "name": "Mazda 626",
+    "economy": 31.3,
+    "cylinders": 4,
+    "displacement": 120,
+    "power": 75,
+    "weight": 2542,
+    "0-60mph": 17.5,
+    "year": 80
+  },
+  {
+    "name": "Mazda 626",
+    "economy": 31.6,
+    "cylinders": 4,
+    "displacement": 120,
+    "power": 74,
+    "weight": 2635,
+    "0-60mph": 18.3,
+    "year": 81
+  },
+  {
+    "name": "Mazda GLC 4",
+    "economy": 34.1,
+    "cylinders": 4,
+    "displacement": 91,
+    "power": 68,
+    "weight": 1985,
+    "0-60mph": 16,
+    "year": 81
+  },
+  {
+    "name": "Mazda GLC Custom L",
+    "economy": 37,
+    "cylinders": 4,
+    "displacement": 91,
+    "power": 68,
+    "weight": 2025,
+    "0-60mph": 18.2,
+    "year": 82
+  },
+  {
+    "name": "Mazda GLC Custom",
+    "economy": 31,
+    "cylinders": 4,
+    "displacement": 91,
+    "power": 68,
+    "weight": 1970,
+    "0-60mph": 17.6,
+    "year": 82
+  },
+  {
+    "name": "Mazda GLC Deluxe",
+    "economy": 32.8,
+    "cylinders": 4,
+    "displacement": 78,
+    "power": 52,
+    "weight": 1985,
+    "0-60mph": 19.4,
+    "year": 78
+  },
+  {
+    "name": "Mazda GLC",
+    "economy": 46.6,
+    "cylinders": 4,
+    "displacement": 86,
+    "power": 65,
+    "weight": 2110,
+    "0-60mph": 17.9,
+    "year": 80
+  },
+  {
+    "name": "Mazda RX-2 Coupe",
+    "economy": 19,
+    "cylinders": 3,
+    "displacement": 70,
+    "power": 97,
+    "weight": 2330,
+    "0-60mph": 13.5,
+    "year": 72
+  },
+  {
+    "name": "Mazda RX-4",
+    "economy": 21.5,
+    "cylinders": 3,
+    "displacement": 80,
+    "power": 110,
+    "weight": 2720,
+    "0-60mph": 13.5,
+    "year": 77
+  },
+  {
+    "name": "Mazda RX-7 Gs",
+    "economy": 23.7,
+    "cylinders": 3,
+    "displacement": 70,
+    "power": 100,
+    "weight": 2420,
+    "0-60mph": 12.5,
+    "year": 80
+  },
+  {
+    "name": "Mercedes-Benz 240D",
+    "economy": 30,
+    "cylinders": 4,
+    "displacement": 146,
+    "power": 67,
+    "weight": 3250,
+    "0-60mph": 21.8,
+    "year": 80
+  },
+  {
+    "name": "Mercedes-Benz 280S",
+    "economy": 16.5,
+    "cylinders": 6,
+    "displacement": 168,
+    "power": 120,
+    "weight": 3820,
+    "0-60mph": 16.7,
+    "year": 76
+  },
+  {
+    "name": "Mercedes-Benz 300D",
+    "economy": 25.4,
+    "cylinders": 5,
+    "displacement": 183,
+    "power": 77,
+    "weight": 3530,
+    "0-60mph": 20.1,
+    "year": 79
+  },
+  {
+    "name": "Mercury Capri 2000",
+    "economy": 23,
+    "cylinders": 4,
+    "displacement": 122,
+    "power": 86,
+    "weight": 2220,
+    "0-60mph": 14,
+    "year": 71
+  },
+  {
+    "name": "Mercury Capri V6",
+    "economy": 21,
+    "cylinders": 6,
+    "displacement": 155,
+    "power": 107,
+    "weight": 2472,
+    "0-60mph": 14,
+    "year": 73
+  },
+  {
+    "name": "Mercury Cougar Brougham",
+    "economy": 15,
+    "cylinders": 8,
+    "displacement": 302,
+    "power": 130,
+    "weight": 4295,
+    "0-60mph": 14.9,
+    "year": 77
+  },
+  {
+    "name": "Mercury Grand Marquis",
+    "economy": 16.5,
+    "cylinders": 8,
+    "displacement": 351,
+    "power": 138,
+    "weight": 3955,
+    "0-60mph": 13.2,
+    "year": 79
+  },
+  {
+    "name": "Mercury Lynx L",
+    "economy": 36,
+    "cylinders": 4,
+    "displacement": 98,
+    "power": 70,
+    "weight": 2125,
+    "0-60mph": 17.3,
+    "year": 82
+  },
+  {
+    "name": "Mercury Marquis Brougham",
+    "economy": 12,
+    "cylinders": 8,
+    "displacement": 429,
+    "power": 198,
+    "weight": 4952,
+    "0-60mph": 11.5,
+    "year": 73
+  },
+  {
+    "name": "Mercury Marquis",
+    "economy": 11,
+    "cylinders": 8,
+    "displacement": 429,
+    "power": 208,
+    "weight": 4633,
+    "0-60mph": 11,
+    "year": 72
+  },
+  {
+    "name": "Mercury Monarch Ghia",
+    "economy": 20.2,
+    "cylinders": 8,
+    "displacement": 302,
+    "power": 139,
+    "weight": 3570,
+    "0-60mph": 12.8,
+    "year": 78
+  },
+  {
+    "name": "Mercury Monarch",
+    "economy": 15,
+    "cylinders": 6,
+    "displacement": 250,
+    "power": 72,
+    "weight": 3432,
+    "0-60mph": 21,
+    "year": 75
+  },
+  {
+    "name": "Mercury Zephyr 6",
+    "economy": 19.8,
+    "cylinders": 6,
+    "displacement": 200,
+    "power": 85,
+    "weight": 2990,
+    "0-60mph": 18.2,
+    "year": 79
+  },
+  {
+    "name": "Mercury Zephyr",
+    "economy": 20.8,
+    "cylinders": 6,
+    "displacement": 200,
+    "power": 85,
+    "weight": 3070,
+    "0-60mph": 16.7,
+    "year": 78
+  },
+  {
+    "name": "Nissan Stanza XE",
+    "economy": 36,
+    "cylinders": 4,
+    "displacement": 120,
+    "power": 88,
+    "weight": 2160,
+    "0-60mph": 14.5,
+    "year": 82
+  },
+  {
+    "name": "Oldsmobile Cutlass Ciera (Diesel)",
+    "economy": 38,
+    "cylinders": 6,
+    "displacement": 262,
+    "power": 85,
+    "weight": 3015,
+    "0-60mph": 17,
+    "year": 82
+  },
+  {
+    "name": "Oldsmobile Cutlass LS",
+    "economy": 26.6,
+    "cylinders": 8,
+    "displacement": 350,
+    "power": 105,
+    "weight": 3725,
+    "0-60mph": 19,
+    "year": 81
+  },
+  {
+    "name": "Oldsmobile Cutlass Salon Brougham",
+    "economy": 19.9,
+    "cylinders": 8,
+    "displacement": 260,
+    "power": 110,
+    "weight": 3365,
+    "0-60mph": 15.5,
+    "year": 78
+  },
+  {
+    "name": "Oldsmobile Cutlass Salon Brougham",
+    "economy": 23.9,
+    "cylinders": 8,
+    "displacement": 260,
+    "power": 90,
+    "weight": 3420,
+    "0-60mph": 22.2,
+    "year": 79
+  },
+  {
+    "name": "Oldsmobile Cutlass Supreme",
+    "economy": 17,
+    "cylinders": 8,
+    "displacement": 260,
+    "power": 110,
+    "weight": 4060,
+    "0-60mph": 19,
+    "year": 77
+  },
+  {
+    "name": "Oldsmobile Delta 88 Royale",
+    "economy": 12,
+    "cylinders": 8,
+    "displacement": 350,
+    "power": 160,
+    "weight": 4456,
+    "0-60mph": 13.5,
+    "year": 72
+  },
+  {
+    "name": "Oldsmobile Omega Brougham",
+    "economy": 26.8,
+    "cylinders": 6,
+    "displacement": 173,
+    "power": 115,
+    "weight": 2700,
+    "0-60mph": 12.9,
+    "year": 79
+  },
+  {
+    "name": "Oldsmobile Omega",
+    "economy": 11,
+    "cylinders": 8,
+    "displacement": 350,
+    "power": 180,
+    "weight": 3664,
+    "0-60mph": 11,
+    "year": 73
+  },
+  {
+    "name": "Oldsmobile Starfire SX",
+    "economy": 23.8,
+    "cylinders": 4,
+    "displacement": 151,
+    "power": 85,
+    "weight": 2855,
+    "0-60mph": 17.6,
+    "year": 78
+  },
+  {
+    "name": "Oldsmobile Vista Cruiser",
+    "economy": 12,
+    "cylinders": 8,
+    "displacement": 350,
+    "power": 180,
+    "weight": 4499,
+    "0-60mph": 12.5,
+    "year": 73
+  },
+  {
+    "name": "Opel 1900",
+    "economy": 25,
+    "cylinders": 4,
+    "displacement": 116,
+    "power": 81,
+    "weight": 2220,
+    "0-60mph": 16.9,
+    "year": 76
+  },
+  {
+    "name": "Opel 1900",
+    "economy": 28,
+    "cylinders": 4,
+    "displacement": 116,
+    "power": 90,
+    "weight": 2123,
+    "0-60mph": 14,
+    "year": 71
+  },
+  {
+    "name": "Opel Manta",
+    "economy": 24,
+    "cylinders": 4,
+    "displacement": 116,
+    "power": 75,
+    "weight": 2158,
+    "0-60mph": 15.5,
+    "year": 73
+  },
+  {
+    "name": "Opel Manta",
+    "economy": 26,
+    "cylinders": 4,
+    "displacement": 97,
+    "power": 78,
+    "weight": 2300,
+    "0-60mph": 14.5,
+    "year": 74
+  },
+  {
+    "name": "Peugeot 304",
+    "economy": 30,
+    "cylinders": 4,
+    "displacement": 79,
+    "power": 70,
+    "weight": 2074,
+    "0-60mph": 19.5,
+    "year": 71
+  },
+  {
+    "name": "Peugeot 504 (Wagon)",
+    "economy": 21,
+    "cylinders": 4,
+    "displacement": 120,
+    "power": 87,
+    "weight": 2979,
+    "0-60mph": 19.5,
+    "year": 72
+  },
+  {
+    "name": "Peugeot 504",
+    "economy": 19,
+    "cylinders": 4,
+    "displacement": 120,
+    "power": 88,
+    "weight": 3270,
+    "0-60mph": 21.9,
+    "year": 76
+  },
+  {
+    "name": "Peugeot 504",
+    "economy": 23,
+    "cylinders": 4,
+    "displacement": 120,
+    "power": 88,
+    "weight": 2957,
+    "0-60mph": 17,
+    "year": 75
+  },
+  {
+    "name": "Peugeot 504",
+    "economy": 25,
+    "cylinders": 4,
+    "displacement": 110,
+    "power": 87,
+    "weight": 2672,
+    "0-60mph": 17.5,
+    "year": 70
+  },
+  {
+    "name": "Peugeot 504",
+    "economy": 27.2,
+    "cylinders": 4,
+    "displacement": 141,
+    "power": 71,
+    "weight": 3190,
+    "0-60mph": 24.8,
+    "year": 79
+  },
+  {
+    "name": "Peugeot 505S Turbo Diesel",
+    "economy": 28.1,
+    "cylinders": 4,
+    "displacement": 141,
+    "power": 80,
+    "weight": 3230,
+    "0-60mph": 20.4,
+    "year": 81
+  },
+  {
+    "name": "Peugeot 604SL",
+    "economy": 16.2,
+    "cylinders": 6,
+    "displacement": 163,
+    "power": 133,
+    "weight": 3410,
+    "0-60mph": 15.8,
+    "year": 78
+  },
+  {
+    "name": "Plymouth Arrow GS",
+    "economy": 25.5,
+    "cylinders": 4,
+    "displacement": 122,
+    "power": 96,
+    "weight": 2300,
+    "0-60mph": 15.5,
+    "year": 77
+  },
+  {
+    "name": "Plymouth Barracuda 340",
+    "economy": 14,
+    "cylinders": 8,
+    "displacement": 340,
+    "power": 160,
+    "weight": 3609,
+    "0-60mph": 8,
+    "year": 70
+  },
+  {
+    "name": "Plymouth Champ",
+    "economy": 39,
+    "cylinders": 4,
+    "displacement": 86,
+    "power": 64,
+    "weight": 1875,
+    "0-60mph": 16.4,
+    "year": 81
+  },
+  {
+    "name": "Plymouth Cricket",
+    "economy": 26,
+    "cylinders": 4,
+    "displacement": 91,
+    "power": 70,
+    "weight": 1955,
+    "0-60mph": 20.5,
+    "year": 71
+  },
+  {
+    "name": "Plymouth Custom Suburb",
+    "economy": 13,
+    "cylinders": 8,
+    "displacement": 360,
+    "power": 170,
+    "weight": 4654,
+    "0-60mph": 13,
+    "year": 73
+  },
+  {
+    "name": "Plymouth Duster",
+    "economy": 20,
+    "cylinders": 6,
+    "displacement": 198,
+    "power": 95,
+    "weight": 3102,
+    "0-60mph": 16.5,
+    "year": 74
+  },
+  {
+    "name": "Plymouth Duster",
+    "economy": 22,
+    "cylinders": 6,
+    "displacement": 198,
+    "power": 95,
+    "weight": 2833,
+    "0-60mph": 15.5,
+    "year": 70
+  },
+  {
+    "name": "Plymouth Duster",
+    "economy": 23,
+    "cylinders": 6,
+    "displacement": 198,
+    "power": 95,
+    "weight": 2904,
+    "0-60mph": 16,
+    "year": 73
+  },
+  {
+    "name": "Plymouth Fury Gran Sedan",
+    "economy": 14,
+    "cylinders": 8,
+    "displacement": 318,
+    "power": 150,
+    "weight": 4237,
+    "0-60mph": 14.5,
+    "year": 73
+  },
+  {
+    "name": "Plymouth Fury III",
+    "economy": 14,
+    "cylinders": 8,
+    "displacement": 318,
+    "power": 150,
+    "weight": 4096,
+    "0-60mph": 13,
+    "year": 71
+  },
+  {
+    "name": "Plymouth Fury III",
+    "economy": 14,
+    "cylinders": 8,
+    "displacement": 440,
+    "power": 215,
+    "weight": 4312,
+    "0-60mph": 8.5,
+    "year": 70
+  },
+  {
+    "name": "Plymouth Fury III",
+    "economy": 15,
+    "cylinders": 8,
+    "displacement": 318,
+    "power": 150,
+    "weight": 4135,
+    "0-60mph": 13.5,
+    "year": 72
+  },
+  {
+    "name": "Plymouth Fury",
+    "economy": 18,
+    "cylinders": 6,
+    "displacement": 225,
+    "power": 95,
+    "weight": 3785,
+    "0-60mph": 19,
+    "year": 75
+  },
+  {
+    "name": "Plymouth Grand Fury",
+    "economy": 16,
+    "cylinders": 8,
+    "displacement": 318,
+    "power": 150,
+    "weight": 4498,
+    "0-60mph": 14.5,
+    "year": 75
+  },
+  {
+    "name": "Plymouth Horizon 4",
+    "economy": 34.7,
+    "cylinders": 4,
+    "displacement": 105,
+    "power": 63,
+    "weight": 2215,
+    "0-60mph": 14.9,
+    "year": 81
+  },
+  {
+    "name": "Plymouth Horizon Miser",
+    "economy": 38,
+    "cylinders": 4,
+    "displacement": 105,
+    "power": 63,
+    "weight": 2125,
+    "0-60mph": 14.7,
+    "year": 82
+  },
+  {
+    "name": "Plymouth Horizon TC3",
+    "economy": 34.5,
+    "cylinders": 4,
+    "displacement": 105,
+    "power": 70,
+    "weight": 2150,
+    "0-60mph": 14.9,
+    "year": 79
+  },
+  {
+    "name": "Plymouth Horizon",
+    "economy": 34.2,
+    "cylinders": 4,
+    "displacement": 105,
+    "power": 70,
+    "weight": 2200,
+    "0-60mph": 13.2,
+    "year": 79
+  },
+  {
+    "name": "Plymouth Reliant",
+    "economy": 27.2,
+    "cylinders": 4,
+    "displacement": 135,
+    "power": 84,
+    "weight": 2490,
+    "0-60mph": 15.7,
+    "year": 81
+  },
+  {
+    "name": "Plymouth Reliant",
+    "economy": 30,
+    "cylinders": 4,
+    "displacement": 135,
+    "power": 84,
+    "weight": 2385,
+    "0-60mph": 12.9,
+    "year": 81
+  },
+  {
+    "name": "Plymouth Sapporo",
+    "economy": 23.2,
+    "cylinders": 4,
+    "displacement": 156,
+    "power": 105,
+    "weight": 2745,
+    "0-60mph": 16.7,
+    "year": 78
+  },
+  {
+    "name": "Plymouth Satellite (Wagon)",
+    "economy": "",
+    "cylinders": 8,
+    "displacement": 383,
+    "power": 175,
+    "weight": 4166,
+    "0-60mph": 10.5,
+    "year": 70
+  },
+  {
+    "name": "Plymouth Satellite Custom (Wagon)",
+    "economy": 14,
+    "cylinders": 8,
+    "displacement": 318,
+    "power": 150,
+    "weight": 4077,
+    "0-60mph": 14,
+    "year": 72
+  },
+  {
+    "name": "Plymouth Satellite Custom",
+    "economy": 16,
+    "cylinders": 6,
+    "displacement": 225,
+    "power": 105,
+    "weight": 3439,
+    "0-60mph": 15.5,
+    "year": 71
+  },
+  {
+    "name": "Plymouth Satellite Sebring",
+    "economy": 18,
+    "cylinders": 6,
+    "displacement": 225,
+    "power": 105,
+    "weight": 3613,
+    "0-60mph": 16.5,
+    "year": 74
+  },
+  {
+    "name": "Plymouth Satellite",
+    "economy": 18,
+    "cylinders": 8,
+    "displacement": 318,
+    "power": 150,
+    "weight": 3436,
+    "0-60mph": 11,
+    "year": 70
+  },
+  {
+    "name": "Plymouth Valiant Custom",
+    "economy": 19,
+    "cylinders": 6,
+    "displacement": 225,
+    "power": 95,
+    "weight": 3264,
+    "0-60mph": 16,
+    "year": 75
+  },
+  {
+    "name": "Plymouth Valiant",
+    "economy": 18,
+    "cylinders": 6,
+    "displacement": 225,
+    "power": 105,
+    "weight": 3121,
+    "0-60mph": 16.5,
+    "year": 73
+  },
+  {
+    "name": "Plymouth Valiant",
+    "economy": 22,
+    "cylinders": 6,
+    "displacement": 225,
+    "power": 100,
+    "weight": 3233,
+    "0-60mph": 15.4,
+    "year": 76
+  },
+  {
+    "name": "Plymouth Volare Custom",
+    "economy": 19,
+    "cylinders": 6,
+    "displacement": 225,
+    "power": 100,
+    "weight": 3630,
+    "0-60mph": 17.7,
+    "year": 77
+  },
+  {
+    "name": "Plymouth Volare Premier V8",
+    "economy": 13,
+    "cylinders": 8,
+    "displacement": 318,
+    "power": 150,
+    "weight": 3940,
+    "0-60mph": 13.2,
+    "year": 76
+  },
+  {
+    "name": "Plymouth Volare",
+    "economy": 20.5,
+    "cylinders": 6,
+    "displacement": 225,
+    "power": 100,
+    "weight": 3430,
+    "0-60mph": 17.2,
+    "year": 78
+  },
+  {
+    "name": "Pontiac Astro",
+    "economy": 23,
+    "cylinders": 4,
+    "displacement": 140,
+    "power": 78,
+    "weight": 2592,
+    "0-60mph": 18.5,
+    "year": 75
+  },
+  {
+    "name": "Pontiac Catalina Brougham",
+    "economy": 14,
+    "cylinders": 8,
+    "displacement": 400,
+    "power": 175,
+    "weight": 4464,
+    "0-60mph": 11.5,
+    "year": 71
+  },
+  {
+    "name": "Pontiac Catalina",
+    "economy": 14,
+    "cylinders": 8,
+    "displacement": 400,
+    "power": 175,
+    "weight": 4385,
+    "0-60mph": 12,
+    "year": 72
+  },
+  {
+    "name": "Pontiac Catalina",
+    "economy": 14,
+    "cylinders": 8,
+    "displacement": 455,
+    "power": 225,
+    "weight": 4425,
+    "0-60mph": 10,
+    "year": 70
+  },
+  {
+    "name": "Pontiac Catalina",
+    "economy": 16,
+    "cylinders": 8,
+    "displacement": 400,
+    "power": 170,
+    "weight": 4668,
+    "0-60mph": 11.5,
+    "year": 75
+  },
+  {
+    "name": "Pontiac Firebird",
+    "economy": 19,
+    "cylinders": 6,
+    "displacement": 250,
+    "power": 100,
+    "weight": 3282,
+    "0-60mph": 15,
+    "year": 71
+  },
+  {
+    "name": "Pontiac Grand Prix Lj",
+    "economy": 16,
+    "cylinders": 8,
+    "displacement": 400,
+    "power": 180,
+    "weight": 4220,
+    "0-60mph": 11.1,
+    "year": 77
+  },
+  {
+    "name": "Pontiac Grand Prix",
+    "economy": 16,
+    "cylinders": 8,
+    "displacement": 400,
+    "power": 230,
+    "weight": 4278,
+    "0-60mph": 9.5,
+    "year": 73
+  },
+  {
+    "name": "Pontiac J2000 Se Hatchback",
+    "economy": 31,
+    "cylinders": 4,
+    "displacement": 112,
+    "power": 85,
+    "weight": 2575,
+    "0-60mph": 16.2,
+    "year": 82
+  },
+  {
+    "name": "Pontiac Lemans V6",
+    "economy": 21.5,
+    "cylinders": 6,
+    "displacement": 231,
+    "power": 115,
+    "weight": 3245,
+    "0-60mph": 15.4,
+    "year": 79
+  },
+  {
+    "name": "Pontiac Phoenix LJ",
+    "economy": 19.2,
+    "cylinders": 6,
+    "displacement": 231,
+    "power": 105,
+    "weight": 3535,
+    "0-60mph": 19.2,
+    "year": 78
+  },
+  {
+    "name": "Pontiac Phoenix",
+    "economy": 27,
+    "cylinders": 4,
+    "displacement": 151,
+    "power": 90,
+    "weight": 2735,
+    "0-60mph": 18,
+    "year": 82
+  },
+  {
+    "name": "Pontiac Phoenix",
+    "economy": 33.5,
+    "cylinders": 4,
+    "displacement": 151,
+    "power": 90,
+    "weight": 2556,
+    "0-60mph": 13.2,
+    "year": 79
+  },
+  {
+    "name": "Pontiac Safari (Wagon)",
+    "economy": 13,
+    "cylinders": 8,
+    "displacement": 400,
+    "power": 175,
+    "weight": 5140,
+    "0-60mph": 12,
+    "year": 71
+  },
+  {
+    "name": "Pontiac Sunbird Coupe",
+    "economy": 24.5,
+    "cylinders": 4,
+    "displacement": 151,
+    "power": 88,
+    "weight": 2740,
+    "0-60mph": 16,
+    "year": 77
+  },
+  {
+    "name": "Pontiac Ventura Sj",
+    "economy": 18.5,
+    "cylinders": 6,
+    "displacement": 250,
+    "power": 110,
+    "weight": 3645,
+    "0-60mph": 16.2,
+    "year": 76
+  },
+  {
+    "name": "Renault 12 (Wagon)",
+    "economy": 26,
+    "cylinders": 4,
+    "displacement": 96,
+    "power": 69,
+    "weight": 2189,
+    "0-60mph": 18,
+    "year": 72
+  },
+  {
+    "name": "Renault 12TL",
+    "economy": 27,
+    "cylinders": 4,
+    "displacement": 101,
+    "power": 83,
+    "weight": 2202,
+    "0-60mph": 15.3,
+    "year": 76
+  },
+  {
+    "name": "Renault 18I",
+    "economy": 34.5,
+    "cylinders": 4,
+    "displacement": 100,
+    "power": "",
+    "weight": 2320,
+    "0-60mph": 15.8,
+    "year": 81
+  },
+  {
+    "name": "Renault 5 Gtl",
+    "economy": 36,
+    "cylinders": 4,
+    "displacement": 79,
+    "power": 58,
+    "weight": 1825,
+    "0-60mph": 18.6,
+    "year": 77
+  },
+  {
+    "name": "Renault Lecar Deluxe",
+    "economy": 40.9,
+    "cylinders": 4,
+    "displacement": 85,
+    "power": "",
+    "weight": 1835,
+    "0-60mph": 17.3,
+    "year": 80
+  },
+  {
+    "name": "Saab 900S",
+    "economy": "",
+    "cylinders": 4,
+    "displacement": 121,
+    "power": 110,
+    "weight": 2800,
+    "0-60mph": 15.4,
+    "year": 81
+  },
+  {
+    "name": "Saab 99E",
+    "economy": 25,
+    "cylinders": 4,
+    "displacement": 104,
+    "power": 95,
+    "weight": 2375,
+    "0-60mph": 17.5,
+    "year": 70
+  },
+  {
+    "name": "Saab 99GLE",
+    "economy": 21.6,
+    "cylinders": 4,
+    "displacement": 121,
+    "power": 115,
+    "weight": 2795,
+    "0-60mph": 15.7,
+    "year": 78
+  },
+  {
+    "name": "Saab 99LE",
+    "economy": 24,
+    "cylinders": 4,
+    "displacement": 121,
+    "power": 110,
+    "weight": 2660,
+    "0-60mph": 14,
+    "year": 73
+  },
+  {
+    "name": "Saab 99LE",
+    "economy": 25,
+    "cylinders": 4,
+    "displacement": 121,
+    "power": 115,
+    "weight": 2671,
+    "0-60mph": 13.5,
+    "year": 75
+  },
+  {
+    "name": "Subaru DL",
+    "economy": 30,
+    "cylinders": 4,
+    "displacement": 97,
+    "power": 67,
+    "weight": 1985,
+    "0-60mph": 16.4,
+    "year": 77
+  },
+  {
+    "name": "Subaru DL",
+    "economy": 33.8,
+    "cylinders": 4,
+    "displacement": 97,
+    "power": 67,
+    "weight": 2145,
+    "0-60mph": 18,
+    "year": 80
+  },
+  {
+    "name": "Subaru",
+    "economy": 26,
+    "cylinders": 4,
+    "displacement": 108,
+    "power": 93,
+    "weight": 2391,
+    "0-60mph": 15.5,
+    "year": 74
+  },
+  {
+    "name": "Subaru",
+    "economy": 32.3,
+    "cylinders": 4,
+    "displacement": 97,
+    "power": 67,
+    "weight": 2065,
+    "0-60mph": 17.8,
+    "year": 81
+  },
+  {
+    "name": "Toyota Carina",
+    "economy": 20,
+    "cylinders": 4,
+    "displacement": 97,
+    "power": 88,
+    "weight": 2279,
+    "0-60mph": 19,
+    "year": 73
+  },
+  {
+    "name": "Toyota Celica GT Liftback",
+    "economy": 21.1,
+    "cylinders": 4,
+    "displacement": 134,
+    "power": 95,
+    "weight": 2515,
+    "0-60mph": 14.8,
+    "year": 78
+  },
+  {
+    "name": "Toyota Celica GT",
+    "economy": 32,
+    "cylinders": 4,
+    "displacement": 144,
+    "power": 96,
+    "weight": 2665,
+    "0-60mph": 13.9,
+    "year": 82
+  },
+  {
+    "name": "Toyota Corolla 1200",
+    "economy": 31,
+    "cylinders": 4,
+    "displacement": 71,
+    "power": 65,
+    "weight": 1773,
+    "0-60mph": 19,
+    "year": 71
+  },
+  {
+    "name": "Toyota Corolla 1200",
+    "economy": 32,
+    "cylinders": 4,
+    "displacement": 71,
+    "power": 65,
+    "weight": 1836,
+    "0-60mph": 21,
+    "year": 74
+  },
+  {
+    "name": "Toyota Corolla 1600 (Wagon)",
+    "economy": 27,
+    "cylinders": 4,
+    "displacement": 97,
+    "power": 88,
+    "weight": 2100,
+    "0-60mph": 16.5,
+    "year": 72
+  },
+  {
+    "name": "Toyota Corolla Liftback",
+    "economy": 26,
+    "cylinders": 4,
+    "displacement": 97,
+    "power": 75,
+    "weight": 2265,
+    "0-60mph": 18.2,
+    "year": 77
+  },
+  {
+    "name": "Toyota Corolla Tercel",
+    "economy": 38.1,
+    "cylinders": 4,
+    "displacement": 89,
+    "power": 60,
+    "weight": 1968,
+    "0-60mph": 18.8,
+    "year": 80
+  },
+  {
+    "name": "Toyota Corolla",
+    "economy": 28,
+    "cylinders": 4,
+    "displacement": 97,
+    "power": 75,
+    "weight": 2155,
+    "0-60mph": 16.4,
+    "year": 76
+  },
+  {
+    "name": "Toyota Corolla",
+    "economy": 29,
+    "cylinders": 4,
+    "displacement": 97,
+    "power": 75,
+    "weight": 2171,
+    "0-60mph": 16,
+    "year": 75
+  },
+  {
+    "name": "Toyota Corolla",
+    "economy": 32.2,
+    "cylinders": 4,
+    "displacement": 108,
+    "power": 75,
+    "weight": 2265,
+    "0-60mph": 15.2,
+    "year": 80
+  },
+  {
+    "name": "Toyota Corolla",
+    "economy": 32.4,
+    "cylinders": 4,
+    "displacement": 108,
+    "power": 75,
+    "weight": 2350,
+    "0-60mph": 16.8,
+    "year": 81
+  },
+  {
+    "name": "Toyota Corolla",
+    "economy": 34,
+    "cylinders": 4,
+    "displacement": 108,
+    "power": 70,
+    "weight": 2245,
+    "0-60mph": 16.9,
+    "year": 82
+  },
+  {
+    "name": "Toyota Corona Hardtop",
+    "economy": 24,
+    "cylinders": 4,
+    "displacement": 113,
+    "power": 95,
+    "weight": 2278,
+    "0-60mph": 15.5,
+    "year": 72
+  },
+  {
+    "name": "Toyota Corona Liftback",
+    "economy": 29.8,
+    "cylinders": 4,
+    "displacement": 134,
+    "power": 90,
+    "weight": 2711,
+    "0-60mph": 15.5,
+    "year": 80
+  },
+  {
+    "name": "Toyota Corona Mark II",
+    "economy": 24,
+    "cylinders": 4,
+    "displacement": 113,
+    "power": 95,
+    "weight": 2372,
+    "0-60mph": 15,
+    "year": 70
+  },
+  {
+    "name": "Toyota Corona",
+    "economy": 24,
+    "cylinders": 4,
+    "displacement": 134,
+    "power": 96,
+    "weight": 2702,
+    "0-60mph": 13.5,
+    "year": 75
+  },
+  {
+    "name": "Toyota Corona",
+    "economy": 25,
+    "cylinders": 4,
+    "displacement": 113,
+    "power": 95,
+    "weight": 2228,
+    "0-60mph": 14,
+    "year": 71
+  },
+  {
+    "name": "Toyota Corona",
+    "economy": 27.5,
+    "cylinders": 4,
+    "displacement": 134,
+    "power": 95,
+    "weight": 2560,
+    "0-60mph": 14.2,
+    "year": 78
+  },
+  {
+    "name": "Toyota Corona",
+    "economy": 31,
+    "cylinders": 4,
+    "displacement": 76,
+    "power": 52,
+    "weight": 1649,
+    "0-60mph": 16.5,
+    "year": 74
+  },
+  {
+    "name": "Toyota Cressida",
+    "economy": 25.4,
+    "cylinders": 6,
+    "displacement": 168,
+    "power": 116,
+    "weight": 2900,
+    "0-60mph": 12.6,
+    "year": 81
+  },
+  {
+    "name": "Toyota Mark II",
+    "economy": 19,
+    "cylinders": 6,
+    "displacement": 156,
+    "power": 108,
+    "weight": 2930,
+    "0-60mph": 15.5,
+    "year": 76
+  },
+  {
+    "name": "Toyota Mark II",
+    "economy": 20,
+    "cylinders": 6,
+    "displacement": 156,
+    "power": 122,
+    "weight": 2807,
+    "0-60mph": 13.5,
+    "year": 73
+  },
+  {
+    "name": "Toyota Starlet",
+    "economy": 39.1,
+    "cylinders": 4,
+    "displacement": 79,
+    "power": 58,
+    "weight": 1755,
+    "0-60mph": 16.9,
+    "year": 81
+  },
+  {
+    "name": "Toyota Tercel",
+    "economy": 37.7,
+    "cylinders": 4,
+    "displacement": 89,
+    "power": 62,
+    "weight": 2050,
+    "0-60mph": 17.3,
+    "year": 81
+  },
+  {
+    "name": "Toyouta Corona Mark II (Wagon)",
+    "economy": 23,
+    "cylinders": 4,
+    "displacement": 120,
+    "power": 97,
+    "weight": 2506,
+    "0-60mph": 14.5,
+    "year": 72
+  },
+  {
+    "name": "Triumph TR7 Coupe",
+    "economy": 35,
+    "cylinders": 4,
+    "displacement": 122,
+    "power": 88,
+    "weight": 2500,
+    "0-60mph": 15.1,
+    "year": 80
+  },
+  {
+    "name": "Vokswagen Rabbit",
+    "economy": 29.8,
+    "cylinders": 4,
+    "displacement": 89,
+    "power": 62,
+    "weight": 1845,
+    "0-60mph": 15.3,
+    "year": 80
+  },
+  {
+    "name": "Volkswagen 1131 Deluxe Sedan",
+    "economy": 26,
+    "cylinders": 4,
+    "displacement": 97,
+    "power": 46,
+    "weight": 1835,
+    "0-60mph": 20.5,
+    "year": 70
+  },
+  {
+    "name": "Volkswagen 411 (Wagon)",
+    "economy": 22,
+    "cylinders": 4,
+    "displacement": 121,
+    "power": 76,
+    "weight": 2511,
+    "0-60mph": 18,
+    "year": 72
+  },
+  {
+    "name": "Volkswagen Dasher (Diesel)",
+    "economy": 43.4,
+    "cylinders": 4,
+    "displacement": 90,
+    "power": 48,
+    "weight": 2335,
+    "0-60mph": 23.7,
+    "year": 80
+  },
+  {
+    "name": "Volkswagen Dasher",
+    "economy": 25,
+    "cylinders": 4,
+    "displacement": 90,
+    "power": 71,
+    "weight": 2223,
+    "0-60mph": 16.5,
+    "year": 75
+  },
+  {
+    "name": "Volkswagen Dasher",
+    "economy": 26,
+    "cylinders": 4,
+    "displacement": 79,
+    "power": 67,
+    "weight": 1963,
+    "0-60mph": 15.5,
+    "year": 74
+  },
+  {
+    "name": "Volkswagen Dasher",
+    "economy": 30.5,
+    "cylinders": 4,
+    "displacement": 97,
+    "power": 78,
+    "weight": 2190,
+    "0-60mph": 14.1,
+    "year": 77
+  },
+  {
+    "name": "Volkswagen Jetta",
+    "economy": 33,
+    "cylinders": 4,
+    "displacement": 105,
+    "power": 74,
+    "weight": 2190,
+    "0-60mph": 14.2,
+    "year": 81
+  },
+  {
+    "name": "Volkswagen Model 111",
+    "economy": 27,
+    "cylinders": 4,
+    "displacement": 97,
+    "power": 60,
+    "weight": 1834,
+    "0-60mph": 19,
+    "year": 71
+  },
+  {
+    "name": "Volkswagen Pickup",
+    "economy": 44,
+    "cylinders": 4,
+    "displacement": 97,
+    "power": 52,
+    "weight": 2130,
+    "0-60mph": 24.6,
+    "year": 82
+  },
+  {
+    "name": "Volkswagen Rabbit C (Diesel)",
+    "economy": 44.3,
+    "cylinders": 4,
+    "displacement": 90,
+    "power": 48,
+    "weight": 2085,
+    "0-60mph": 21.7,
+    "year": 80
+  },
+  {
+    "name": "Volkswagen Rabbit Custom Diesel",
+    "economy": 43.1,
+    "cylinders": 4,
+    "displacement": 90,
+    "power": 48,
+    "weight": 1985,
+    "0-60mph": 21.5,
+    "year": 78
+  },
+  {
+    "name": "Volkswagen Rabbit Custom",
+    "economy": 29,
+    "cylinders": 4,
+    "displacement": 97,
+    "power": 78,
+    "weight": 1940,
+    "0-60mph": 14.5,
+    "year": 77
+  },
+  {
+    "name": "Volkswagen Rabbit Custom",
+    "economy": 31.9,
+    "cylinders": 4,
+    "displacement": 89,
+    "power": 71,
+    "weight": 1925,
+    "0-60mph": 14,
+    "year": 79
+  },
+  {
+    "name": "Volkswagen Rabbit L",
+    "economy": 36,
+    "cylinders": 4,
+    "displacement": 105,
+    "power": 74,
+    "weight": 1980,
+    "0-60mph": 15.3,
+    "year": 82
+  },
+  {
+    "name": "Volkswagen Rabbit",
+    "economy": 29,
+    "cylinders": 4,
+    "displacement": 90,
+    "power": 70,
+    "weight": 1937,
+    "0-60mph": 14,
+    "year": 75
+  },
+  {
+    "name": "Volkswagen Rabbit",
+    "economy": 29,
+    "cylinders": 4,
+    "displacement": 90,
+    "power": 70,
+    "weight": 1937,
+    "0-60mph": 14.2,
+    "year": 76
+  },
+  {
+    "name": "Volkswagen Rabbit",
+    "economy": 29.5,
+    "cylinders": 4,
+    "displacement": 97,
+    "power": 71,
+    "weight": 1825,
+    "0-60mph": 12.2,
+    "year": 76
+  },
+  {
+    "name": "Volkswagen Rabbit",
+    "economy": 41.5,
+    "cylinders": 4,
+    "displacement": 98,
+    "power": 76,
+    "weight": 2144,
+    "0-60mph": 14.7,
+    "year": 80
+  },
+  {
+    "name": "Volkswagen Scirocco",
+    "economy": 31.5,
+    "cylinders": 4,
+    "displacement": 89,
+    "power": 71,
+    "weight": 1990,
+    "0-60mph": 14.9,
+    "year": 78
+  },
+  {
+    "name": "Volkswagen Super Beetle 117",
+    "economy": "",
+    "cylinders": 4,
+    "displacement": 97,
+    "power": 48,
+    "weight": 1978,
+    "0-60mph": 20,
+    "year": 71
+  },
+  {
+    "name": "Volkswagen Super Beetle",
+    "economy": 26,
+    "cylinders": 4,
+    "displacement": 97,
+    "power": 46,
+    "weight": 1950,
+    "0-60mph": 21,
+    "year": 73
+  },
+  {
+    "name": "Volkswagen Type 3",
+    "economy": 23,
+    "cylinders": 4,
+    "displacement": 97,
+    "power": 54,
+    "weight": 2254,
+    "0-60mph": 23.5,
+    "year": 72
+  },
+  {
+    "name": "Volvo 144EA",
+    "economy": 19,
+    "cylinders": 4,
+    "displacement": 121,
+    "power": 112,
+    "weight": 2868,
+    "0-60mph": 15.5,
+    "year": 73
+  },
+  {
+    "name": "Volvo 145E (Wagon)",
+    "economy": 18,
+    "cylinders": 4,
+    "displacement": 121,
+    "power": 112,
+    "weight": 2933,
+    "0-60mph": 14.5,
+    "year": 72
+  },
+  {
+    "name": "Volvo 244DL",
+    "economy": 22,
+    "cylinders": 4,
+    "displacement": 121,
+    "power": 98,
+    "weight": 2945,
+    "0-60mph": 14.5,
+    "year": 75
+  },
+  {
+    "name": "Volvo 245",
+    "economy": 20,
+    "cylinders": 4,
+    "displacement": 130,
+    "power": 102,
+    "weight": 3150,
+    "0-60mph": 15.7,
+    "year": 76
+  },
+  {
+    "name": "Volvo 264GL",
+    "economy": 17,
+    "cylinders": 6,
+    "displacement": 163,
+    "power": 125,
+    "weight": 3140,
+    "0-60mph": 13.6,
+    "year": 78
+  },
+  {
+    "name": "Volvo Diesel",
+    "economy": 30.7,
+    "cylinders": 6,
+    "displacement": 145,
+    "power": 76,
+    "weight": 3160,
+    "0-60mph": 19.6,
+    "year": 81
+  }
+]

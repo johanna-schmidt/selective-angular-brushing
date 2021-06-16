@@ -1,0 +1,22 @@
+/* Canvas and SVG are shown on top of each other. */
+.pcplot {
+  position: absolute;
+  left: 18%;
+}
+
+/* Canvas where lines are drawn. */
+.pcplot-lines {
+  z-index: 1;
+}
+
+/* Canvas where selected lines are drawn. */
+.pcplot-selection {
+  z-index: 2;
+}
+
+/* SVG that handles mouse interactions and shows axes. */
+.pcplot-ui {
+  z-index: 3;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+}
