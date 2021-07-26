@@ -2,7 +2,7 @@
 
 Selective Angular Brushing is a novel selection mechanisms for parallel coordinates based on a single click-and-drag mouse operation. Starting from a point or range on an axis, our technique allows to select all lines that follow a certain angle. This makes it possible to select all lines that "go up" or "go downwards" with one single operation, where previously multiple clicks (e.g., setting two ranges on two axes) were necessary.
 
-### Reference
+## Reference
 
 This work originated from a joint research project between the VRVis Research Center and the University of Vienna in Austria.
 
@@ -14,7 +14,7 @@ Proceedings of EuroVis 2021, Short Papers.
 
 https://diglib.eg.org/bitstream/handle/10.2312/evs20211064/109-113.pdf
 
-### Demo
+## Demo
 
 You can view an online demo here:
 https://johanna-schmidt.github.io/selective-angular-brushing/
