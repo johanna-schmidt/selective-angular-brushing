@@ -26,15 +26,19 @@
 
 <!-- Page -->
 <div class="container">
-  <div class="text-center mt-5">
-    <h4>Selective Angular Brushing</h4>
+  <div class="text-left mt-12">
+    <br />
+    <h4>Selective Angular Brushing - Demo</h4>
+    <p>Click on an axis and keep the mouse button down to start the selection.</p>
   </div>
 </div>
 
 <br />
 <!-- Parallel coordinates plot -->
-<div style="text-align: center">
-  <canvas #lines class="pcplot pcplot-lines" width="1000" height="660" style="margin-top: 5px; margin-left: 200px"></canvas>
-  <canvas #selection class="pcplot pcplot-selection" width="1000" height="660" style="margin-top: 5px; margin-left: 200px"></canvas>
-  <svg #plot class="pcplot pcplot-ui" width="1200" height="700"></svg>
+<div class="container">
+  <div style="text-align: center">
+    <canvas #lines class="pcplot pcplot-lines" width="1000" height="660" style="margin-top: 5px; margin-left: 200px"></canvas>
+    <canvas #selection class="pcplot pcplot-selection" width="1000" height="660" style="margin-top: 5px; margin-left: 200px"></canvas>
+    <svg #plot class="pcplot pcplot-ui" width="1200" height="700"></svg>
+  </div>
 </div>

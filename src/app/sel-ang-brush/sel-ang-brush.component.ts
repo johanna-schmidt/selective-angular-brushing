@@ -37,6 +37,7 @@ export class SelAngBrushComponent implements OnInit, AfterViewInit {
   private selectionPolygon: any;
   private currentAxisPosition: number;
   private currentSelectionStart: any;
+  private currentSelectionAxisPrevious: number;
   private currentSelectionAxisNext: number;
   private selectionIsActive = false;
 
@@ -97,6 +98,7 @@ export class SelAngBrushComponent implements OnInit, AfterViewInit {
 
     // Create the vertices for the polylines
     this.polylines = new Map<string, number[]>();
+    // Every entry in linesBetweenAxes represents the endpoints of the line in between two axes
     this.linesBetweenAxes = new Map<string, number[][]>();
     const vertices: number[] = [];
     // Browse through all data points
@@ -239,7 +241,12 @@ export class SelAngBrushComponent implements OnInit, AfterViewInit {
             // Remember the point on the axis
             app.currentAxisPosition = i;
             app.currentSelectionStart = { x: app.axisPositioning(c), y: posInSVG.y };
-            // Remember the next axis
+            // Remember the x positions of the previous and the next axis
+            if (i == 0) {
+              app.currentSelectionAxisPrevious = app.plotMargin.left;
+            } else {
+              app.currentSelectionAxisPrevious = app.axisPositioning(app.dataCategories[i-1]);
+            }
             if (i < app.dataCategories.length - 1) {
               app.currentSelectionAxisNext = app.axisPositioning(app.dataCategories[i+1]);
             } else {
@@ -258,12 +265,14 @@ export class SelAngBrushComponent implements OnInit, AfterViewInit {
       // MOUSEMOVE
       .on('mousemove', function(evt: any) {
         if (app.selectionIsActive) {
+          // Current mouse position
           pt.x = evt.clientX;
           pt.y = evt.clientY;
+          // Mouse position to SVG coordinates
           const posInSVG = pt.matrixTransform(transf);
           const posX = posInSVG.x - app.plotMargin.left;
-          // Only allow interaction between the two current axes
-          if (posX > app.currentSelectionStart.x && posX < app.currentSelectionAxisNext) {
+          // Only allow interaction between the current axes and the axis to the left and to the right
+          if (posX > app.currentSelectionAxisPrevious && posX < app.currentSelectionAxisNext) {
             // Set the points of the selection triangle
             const selectionLine = app.getSelectionTrianglePoints(posInSVG);
             app.selectionPolygon.attr('points',
@@ -287,8 +296,7 @@ export class SelAngBrushComponent implements OnInit, AfterViewInit {
   /**
    * Returns the triangle endpoints based on the mouse position.
    *
-   * @param startX  Start point on axis.
-   * @param startY  Start point on axis.
+   * @param mousePos  Current mouse position.
    *
    * @private
    */
@@ -305,9 +313,23 @@ export class SelAngBrushComponent implements OnInit, AfterViewInit {
     // Calculate the 90 degrees vector
     const nvec90 = { x: nvec.y, y: -nvec.x };
 
-    // Find the two endpoints from the left and right of the mouse position
-    const posBetweenAxes = (mx - this.currentSelectionStart.x) / (this.currentSelectionAxisNext - this.currentSelectionStart.x);
+    // Check if mouse is closer to the previous or to the next axis
+    const dist1 = Math.abs(mx - this.currentSelectionAxisPrevious);
+    const dist2 = Math.abs(mx - this.currentSelectionAxisNext);
+    // Calculate the position within the two axes
+    let posBetweenAxes = 0;
+    if (dist1 < dist2) {
+      posBetweenAxes = (this.currentSelectionStart.x - mx) /
+        (this.currentSelectionStart.x - this.currentSelectionAxisPrevious);
+    } else {
+      posBetweenAxes = (mx - this.currentSelectionStart.x) /
+        (this.currentSelectionAxisNext - this.currentSelectionStart.x);
+    }
+
+    // Calculate the size of the selection triangle based on the distance from the original point
     const size = this.maximumSelectionSize - posBetweenAxes * (this.maximumSelectionSize - this.minimumSelectionSize);
+
+    // Find the two endpoints of the selection line (to the left and right of the current mouse position)
     const nvec90left = { x: mx - nvec90.x * (size / 2), y: my - nvec90.y * (size / 2) };
     const nvec90right = { x: mx + nvec90.x * (size / 2), y: my + nvec90.y * (size / 2) };
 
@@ -324,24 +346,33 @@ export class SelAngBrushComponent implements OnInit, AfterViewInit {
    */
   private calculateIntersections(selectionLine: any): void {
     const selectedLines : number[][] = [];
+    // Browse through all lines
     for (let key of this.linesBetweenAxes.keys()) {
+      // Get the array of line points of the current line
       const linesArray = this.linesBetweenAxes.get(key);
       // @ts-ignore
-      if (this.currentAxisPosition < linesArray.length) {
-        if (linesArray) {
-          // First check whether polyline runs through start point
-          if (Math.abs(linesArray[this.currentAxisPosition][1] - (this.plotHeight - this.currentSelectionStart.y)) < 10) {
-            // Then check for line intersection
-            const intersection = checkIntersection(
+      // Proceed if there are enough points
+      if (linesArray && this.currentAxisPosition < linesArray.length) {
+        // First check whether polyline runs through start point
+        if (Math.abs(linesArray[this.currentAxisPosition][1] - (this.plotHeight - this.currentSelectionStart.y)) < 10) {
+          // Only then check for line intersection, because this is costly
+          let intersectionPrevious = { type: 'undefined' };
+          if (this.currentAxisPosition > 0) {
+            intersectionPrevious = checkIntersection(
               selectionLine.x1, this.plotHeight - selectionLine.y1,
               selectionLine.x2, this.plotHeight - selectionLine.y2,
-              linesArray[this.currentAxisPosition][0], linesArray[this.currentAxisPosition][1],
-              linesArray[this.currentAxisPosition][2], linesArray[this.currentAxisPosition][3]);
-            if (intersection.type === 'intersecting') {
-              const vertices = this.polylines.get(key);
-              if (vertices !== undefined) {
-                selectedLines.push(vertices);
-              }
+              linesArray[this.currentAxisPosition - 1][0], linesArray[this.currentAxisPosition - 1][1],
+              linesArray[this.currentAxisPosition - 1][2], linesArray[this.currentAxisPosition - 1][3]);
+          }
+          const intersectionNext = checkIntersection(
+            selectionLine.x1, this.plotHeight - selectionLine.y1,
+            selectionLine.x2, this.plotHeight - selectionLine.y2,
+            linesArray[this.currentAxisPosition][0], linesArray[this.currentAxisPosition][1],
+            linesArray[this.currentAxisPosition][2], linesArray[this.currentAxisPosition][3]);
+          if (intersectionPrevious.type === 'intersecting' || intersectionNext.type === 'intersecting') {
+            const vertices = this.polylines.get(key);
+            if (vertices !== undefined) {
+              selectedLines.push(vertices);
             }
           }
         }
