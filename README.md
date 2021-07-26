@@ -2,8 +2,7 @@
 
 Selective Angular Brushing is a novel selection mechanisms for parallel coordinates based on a single click-and-drag mouse operation. Starting from a point or range on an axis, our technique allows to select all lines that follow a certain angle. This makes it possible to select all lines that "go up" or "go downwards" with one single operation, where previously multiple clicks (e.g., setting two ranges on two axes) were necessary.
 
-| ![Teaser](https://johanna-schmidt.github.io/selective-angular-brushing/teaser.png) |
-| :--: |
+![Teaser](https://johanna-schmidt.github.io/selective-angular-brushing/teaser.png)
 
 ## Reference
 
