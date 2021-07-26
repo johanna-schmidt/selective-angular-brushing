@@ -218,8 +218,8 @@ export class SelAngBrushComponent implements OnInit, AfterViewInit {
     // Needed for interaction
     this.selectionPolygon = canvas.append('polygon')
       .attr('points', '0,0 0,0 0,0')
-      .attr('fill', 'green')
-      .attr('stroke', 'black')
+      .attr('fill', 'Aqua')
+      .attr('stroke', 'Black')
       .attr('strokeWidth', '2px')
       .attr('opacity', 0.0);
 
@@ -369,6 +369,8 @@ export class SelAngBrushComponent implements OnInit, AfterViewInit {
             selectionLine.x2, this.plotHeight - selectionLine.y2,
             linesArray[this.currentAxisPosition][0], linesArray[this.currentAxisPosition][1],
             linesArray[this.currentAxisPosition][2], linesArray[this.currentAxisPosition][3]);
+          // Both intersections to the left and right have been checked
+          // If at least one is intersecting, add the line to the intersecting lines
           if (intersectionPrevious.type === 'intersecting' || intersectionNext.type === 'intersecting') {
             const vertices = this.polylines.get(key);
             if (vertices !== undefined) {
@@ -378,6 +380,7 @@ export class SelAngBrushComponent implements OnInit, AfterViewInit {
         }
       }
     }
+    // Draw the selected lines on top of the background lines
     this.drawSelectedLines(selectedLines);
   }
 
@@ -421,7 +424,7 @@ export class SelAngBrushComponent implements OnInit, AfterViewInit {
     // Shaders - Fragment
     var fragCode =
       'void main(void) {' +
-      'gl_FragColor = vec4(1.0, 0.0, 0.0, 0.8);' +
+      'gl_FragColor = vec4(0.50, 0.00, 0.00, 0.8);' +
       '}';
     var fragShader = gl.createShader(gl.FRAGMENT_SHADER);
     gl.shaderSource(fragShader, fragCode);
